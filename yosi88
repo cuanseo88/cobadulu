@@ -1,0 +1,1076 @@
+
+
+
+<!DOCTYPE html>
+<html amp lang="id-ID">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+    <script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style><noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+        .progress{height:21px;margin-bottom:21px;overflow:hidden;background-color:#f5f5f5;border-radius:4px;box-shadow:inset 0 1px 2px rgba(0,0,0,.1)}.progress-bar{float:left;width:0;height:100%;font-size:12px;line-height:21px;color:#fff;text-align:center;background-color:#40fe41;box-shadow:inset 0 -1px 0 rgba(0,0,0,.15);transition:width .6s ease}.text-right{text-align:right}.text-center{text-align:center}.ann-content{display:flex}a.arrow{padding:5px;display:inline-flex;justify-content:center;background:#30b13a;border-radius:100%}html{scroll-behavior:smooth}amp-selector [option][selected]{outline:0}amp-selector#carouselLogosSelector [option][selected],amp-selector#carouselWithPreviewSelector [option][selected]{background-color:#30b13a}amp-selector#featuredSlider [option][selected]{background-color:#30b13a}.text-carr .amp-carousel{padding-bottom:50px}.text-carr{position:relative}#carouselLogos .amp-carousel-button,.text-carr .amp-carousel-button.amp-carousel-button{display:none}#carousel-fixed-height .amp-carousel-button.amp-carousel-button{position:absolute;width:15%;height:100%;opacity:.1}#carousel-fixed-height .amp-carousel-button.amp-carousel-button:focus{border:0;outline:0}#carousel-fixed-height .amp-carousel-button.amp-carousel-button-prev{left:0}#carousel-fixed-height .amp-carousel-button.amp-carousel-button-next{right:0}#carousel-fixed-height .amp-carousel-button.amp-carousel-button:hover{opacity:.3}#carousel-fixed-height .carousel-control{opacity:0}.jackpot .text-content span{font-weight:400}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;-moz-text-decoration:underline dotted;text-decoration:underline dotted}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#30b13a}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}textarea{overflow:auto}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}@media print{*,:after,:before{color:#30b13a;text-shadow:none;background:0 0;box-shadow:none}a,a:visited{text-decoration:underline}a[href]:after{content:' ('attr(href) ')'}abbr[title]:after{content:' ('attr(title) ')'}a[href^='#']:after,a[href^='javascript:']:after{content:''}blockquote,pre{border:1px solid #999;page-break-inside:avoid}thead{display:table-header-group}img,tr{page-break-inside:avoid}img{max-width:100%}h2,h3,p{orphans:3;widows:3}h2,h3{page-break-after:avoid}.navbar{display:none}.btn>.caret,.dropup>.btn>.caret{border-top-color:#30b13a}.label{border:1px solid #30b13a}.table{border-collapse:collapse}.table td,.table th{background-color:#fff}.table-bordered td,.table-bordered th{border:1px solid #ddd}}*,:after,:before{box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:Montserrat,sans-serif;font-size:14px;line-height:1.5;color:#333}button,input,select,textarea{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#30b13a;text-decoration:none}a:focus,a:hover{color:#2556ce;text-decoration:underline}a:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}figure{margin:0}img{vertical-align:middle}.img-circle{border-radius:50%}hr{margin-top:21px;margin-bottom:21px;border:0;border-top:1px solid #eee}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}.sr-only-focusable:active,.sr-only-focusable:focus{position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto}[role=button]{cursor:pointer}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:Montserrat,sans-serif;font-weight:500;line-height:1.2;color:#ccbc98}.h1 .small,.h1 small,.h2 .small,.h2 small,.h3 .small,.h3 small,.h4 .small,.h4 small,.h5 .small,.h5 small,.h6 .small,.h6 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small,h4 .small,h4 small,h5 .small,h5 small,h6 .small,h6 small{font-weight:400;line-height:1;color:#777}.h1,.h2,.h3,h1,h2,h3{margin-top:21px;margin-bottom:10.5px}.h1 .small,.h1 small,.h2 .small,.h2 small,.h3 .small,.h3 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small{font-size:65%}.h4,.h5,.h6,h4,h5,h6{margin-top:10.5px;margin-bottom:10.5px}.h4 .small,.h4 small,.h5 .small,.h5 small,.h6 .small,.h6 small,h4 .small,h4 small,h5 .small,h5 small,h6 .small,h6 small{font-size:75%}.h1,h1{font-size:36px}.h2,h2{font-size:30px}.h3,h3{font-size:24px}.h4,h4{font-size:18px}.h5,h5{font-size:14px}.h6,h6{font-size:12px}p{margin:0 0 10.5px}.lead{margin-bottom:21px;font-size:16px;font-weight:300;line-height:1.4}.small,small{font-size:85%}.mark,mark{padding:.2em;background-color:#fcf8e3}.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.container:after,.container:before{display:table;content:' '}.container:after{clear:both}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.container-fluid:after,.container-fluid:before{display:table;content:' '}.container-fluid:after{clear:both}.row{margin-right:-15px;margin-left:-15px}.row:after,.row:before{display:table;content:' '}.row:after{clear:both}.row-no-gutters{margin-right:0;margin-left:0}.row-no-gutters [class*=col-]{padding-right:0;padding-left:0}.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{position:relative;min-height:1px;padding-right:15px;padding-left:15px}.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{float:left}.col-xs-1{width:8.3333333333%}.col-xs-2{width:16.6666666667%}.col-xs-3{width:25%}.col-xs-4{width:33.3333333333%}.col-xs-5{width:41.6666666667%}.col-xs-6{width:50%}.col-xs-7{width:58.3333333333%}.col-xs-8{width:66.6666666667%}.col-xs-9{width:75%}.col-xs-10{width:83.3333333333%}.col-xs-11{width:91.6666666667%}.col-xs-12{width:100%}@media (min-width:992px){.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9{float:left}.col-md-1{width:8.3333333333%}.col-md-2{width:16.6666666667%}.col-md-3{width:25%}.col-md-4{width:33.3333333333%}.col-md-5{width:41.6666666667%}.col-md-6{width:50%}.col-md-7{width:58.3333333333%}.col-md-8{width:66.6666666667%}.col-md-9{width:75%}.col-md-10{width:83.3333333333%}.col-md-11{width:91.6666666667%}.col-md-12{width:100%}}@media (min-width:1200px){.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9{float:left}.col-lg-1{width:8.3333333333%}.col-lg-2{width:16.6666666667%}.col-lg-3{width:25%}.col-lg-4{width:33.3333333333%}.col-lg-5{width:41.6666666667%}.col-lg-6{width:50%}.col-lg-7{width:58.3333333333%}.col-lg-8{width:66.6666666667%}.col-lg-9{width:75%}.col-lg-10{width:83.3333333333%}.col-lg-11{width:91.6666666667%}.col-lg-12{width:100%}}table{background-color:transparent}table col[class*=col-]{position:static;display:table-column;float:none}table td[class*=col-],table th[class*=col-]{position:static;display:table-cell;float:none}caption{padding-top:8px;padding-bottom:8px;color:#724c4c}caption,th{text-align:left}.table{max-width:100%;margin-bottom:21px}.table>tbody>tr>td,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>th{padding:8px;line-height:1.5;vertical-align:top;border-top:1px solid #ddd}.table>thead>tr>th{border-bottom:2px solid #ddd}.table>caption+thead>tr:first-child>td,.table>caption+thead>tr:first-child>th,.table>colgroup+thead>tr:first-child>td,.table>colgroup+thead>tr:first-child>th,.table>thead:first-child>tr:first-child>td,.table>thead:first-child>tr:first-child>th{border-top:0}.table>tbody+tbody{border-top:2px solid #ddd}.table .table{background-color:#30b13a}.table-bordered,.table-bordered>tbody>tr>td,.table-bordered>tbody>tr>th,.table-bordered>tfoot>tr>td,.table-bordered>tfoot>tr>th,.table-bordered>thead>tr>td,.table-bordered>thead>tr>th{border:1px solid #ddd}.table-bordered>thead>tr>td,.table-bordered>thead>tr>th{border-bottom-width:2px}.table-striped>tbody>tr:nth-of-type(odd){background-color:#f9f9f9}.table-hover>tbody>tr:hover,.table>tbody>tr.active>td,.table>tbody>tr.active>th,.table>tbody>tr>td.active,.table>tbody>tr>th.active,.table>tfoot>tr.active>td,.table>tfoot>tr.active>th,.table>tfoot>tr>td.active,.table>tfoot>tr>th.active,.table>thead>tr.active>td,.table>thead>tr.active>th,.table>thead>tr>td.active,.table>thead>tr>th.active{background-color:#f5f5f5}.table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr.active:hover>th,.table-hover>tbody>tr:hover>.active,.table-hover>tbody>tr>td.active:hover,.table-hover>tbody>tr>th.active:hover{background-color:#e8e8e8}.table>tbody>tr.success>td,.table>tbody>tr.success>th,.table>tbody>tr>td.success,.table>tbody>tr>th.success,.table>tfoot>tr.success>td,.table>tfoot>tr.success>th,.table>tfoot>tr>td.success,.table>tfoot>tr>th.success,.table>thead>tr.success>td,.table>thead>tr.success>th,.table>thead>tr>td.success,.table>thead>tr>th.success{background-color:#dff0d8}.table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr.success:hover>th,.table-hover>tbody>tr:hover>.success,.table-hover>tbody>tr>td.success:hover,.table-hover>tbody>tr>th.success:hover{background-color:#d0e9c6}.table>tbody>tr.info>td,.table>tbody>tr.info>th,.table>tbody>tr>td.info,.table>tbody>tr>th.info,.table>tfoot>tr.info>td,.table>tfoot>tr.info>th,.table>tfoot>tr>td.info,.table>tfoot>tr>th.info,.table>thead>tr.info>td,.table>thead>tr.info>th,.table>thead>tr>td.info,.table>thead>tr>th.info{background-color:#d9edf7}.table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr.info:hover>th,.table-hover>tbody>tr:hover>.info,.table-hover>tbody>tr>td.info:hover,.table-hover>tbody>tr>th.info:hover{background-color:#c4e3f3}.table>tbody>tr.warning>td,.table>tbody>tr.warning>th,.table>tbody>tr>td.warning,.table>tbody>tr>th.warning,.table>tfoot>tr.warning>td,.table>tfoot>tr.warning>th,.table>tfoot>tr>td.warning,.table>tfoot>tr>th.warning,.table>thead>tr.warning>td,.table>thead>tr.warning>th,.table>thead>tr>td.warning,.table>thead>tr>th.warning{background-color:#fcf8e3}.table-hover>tbody>tr.warning:hover>td,.table-hover>tbody>tr.warning:hover>th,.table-hover>tbody>tr:hover>.warning,.table-hover>tbody>tr>td.warning:hover,.table-hover>tbody>tr>th.warning:hover{background-color:#faf2cc}.table>tbody>tr.danger>td,.table>tbody>tr.danger>th,.table>tbody>tr>td.danger,.table>tbody>tr>th.danger,.table>tfoot>tr.danger>td,.table>tfoot>tr.danger>th,.table>tfoot>tr>td.danger,.table>tfoot>tr>th.danger,.table>thead>tr.danger>td,.table>thead>tr.danger>th,.table>thead>tr>td.danger,.table>thead>tr>th.danger{background-color:#f2dede}.table-hover>tbody>tr.danger:hover>td,.table-hover>tbody>tr.danger:hover>th,.table-hover>tbody>tr:hover>.danger,.table-hover>tbody>tr>td.danger:hover,.table-hover>tbody>tr>th.danger:hover{background-color:#ebcccc}fieldset{min-width:0;margin:0}fieldset,legend{padding:0;border:0}legend{display:block;width:100%;margin-bottom:21px;font-size:21px;line-height:inherit;color:#333;border-bottom:1px solid #e5e5e5}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}input[type=search]{box-sizing:border-box;-webkit-appearance:none;-moz-appearance:none;appearance:none}input[type=checkbox],input[type=radio]{margin:4px 0 0;line-height:normal}fieldset[disabled] input[type=checkbox],fieldset[disabled] input[type=radio],input[type=checkbox].disabled,input[type=checkbox][disabled],input[type=radio].disabled,input[type=radio][disabled]{cursor:not-allowed}input[type=file]{display:block}input[type=range]{display:block;width:100%}select[multiple],select[size]{height:auto}input[type=checkbox]:focus,input[type=file]:focus,input[type=radio]:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}output{padding-top:7px}.form-control,output{display:block;font-size:14px;line-height:1.5;color:#555}.form-control{width:100%;height:35px;padding:6px 12px;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;box-shadow:inset 0 1px 1px rgba(0,0,0,.075);transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out}.form-control:focus{border-color:#66afe9;outline:0;box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)}.form-control::-moz-placeholder{color:#999;opacity:1}.form-control:-ms-input-placeholder{color:#999}.form-control::-webkit-input-placeholder{color:#999}.form-control::-ms-expand{background-color:transparent;border:0}.form-control[disabled],.form-control[readonly],fieldset[disabled] .form-control{background-color:#eee;opacity:1}.form-control[disabled],fieldset[disabled] .form-control{cursor:not-allowed}textarea.form-control{height:auto}@media screen and (-webkit-min-device-pixel-ratio:0){input[type=date].form-control,input[type=datetime-local].form-control,input[type=month].form-control,input[type=time].form-control{line-height:35px}.input-group-sm input[type=date],.input-group-sm input[type=datetime-local],.input-group-sm input[type=month],.input-group-sm input[type=time],.input-group-sm>.input-group-btn>input[type=date].btn,.input-group-sm>.input-group-btn>input[type=datetime-local].btn,.input-group-sm>.input-group-btn>input[type=month].btn,.input-group-sm>.input-group-btn>input[type=time].btn,input[type=date].input-sm,input[type=datetime-local].input-sm,input[type=month].input-sm,input[type=time].input-sm{line-height:30px}.input-group-lg input[type=date],.input-group-lg input[type=datetime-local],.input-group-lg input[type=month],.input-group-lg input[type=time],.input-group-lg>.input-group-btn>input[type=date].btn,.input-group-lg>.input-group-btn>input[type=datetime-local].btn,.input-group-lg>.input-group-btn>input[type=month].btn,.input-group-lg>.input-group-btn>input[type=time].btn,input[type=date].input-lg,input[type=datetime-local].input-lg,input[type=month].input-lg,input[type=time].input-lg{line-height:46px}}.form-group{margin-bottom:15px}.form-control-static{min-height:35px;padding-top:7px;padding-bottom:7px;margin-bottom:0}.form-control-static.input-lg,.form-control-static.input-sm,.input-group-lg>.form-control-static.form-control,.input-group-lg>.form-control-static.input-group-addon,.input-group-lg>.input-group-btn>.form-control-static.btn,.input-group-sm>.form-control-static.form-control,.input-group-sm>.form-control-static.input-group-addon,.input-group-sm>.input-group-btn>.form-control-static.btn{padding-right:0;padding-left:0}.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn,.input-sm{height:30px;padding:5px 10px;font-size:12px;line-height:1.5;border-radius:3px}.input-group-sm>.input-group-btn>select.btn,.input-group-sm>select.form-control,.input-group-sm>select.input-group-addon,select.input-sm{height:30px;line-height:30px}.input-group-sm>.input-group-btn>select[multiple].btn,.input-group-sm>.input-group-btn>textarea.btn,.input-group-sm>select[multiple].form-control,.input-group-sm>select[multiple].input-group-addon,.input-group-sm>textarea.form-control,.input-group-sm>textarea.input-group-addon,select[multiple].input-sm,textarea.input-sm{height:auto}.form-group-sm .form-control{height:30px;padding:5px 10px;font-size:12px;line-height:1.5;border-radius:3px}.form-group-sm select.form-control{height:30px;line-height:30px}.form-group-sm select[multiple].form-control,.form-group-sm textarea.form-control{height:auto}.form-group-sm .form-control-static{height:30px;min-height:33px;padding:6px 10px;font-size:12px;line-height:1.5}.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn,.input-lg{height:46px;padding:10px 16px;font-size:18px;line-height:1.3333333;border-radius:6px}.input-group-lg>.input-group-btn>select.btn,.input-group-lg>select.form-control,.input-group-lg>select.input-group-addon,select.input-lg{height:46px;line-height:46px}.input-group-lg>.input-group-btn>select[multiple].btn,.input-group-lg>.input-group-btn>textarea.btn,.input-group-lg>select[multiple].form-control,.input-group-lg>select[multiple].input-group-addon,.input-group-lg>textarea.form-control,.input-group-lg>textarea.input-group-addon,select[multiple].input-lg,textarea.input-lg{height:auto}.form-horizontal .radio,.form-horizontal .radio-inline{padding-top:7px;margin-top:0;margin-bottom:0}.form-horizontal .radio{min-height:28px}.form-horizontal .form-group{margin-right:-15px;margin-left:-15px}.form-horizontal .form-group:after,.form-horizontal .form-group:before{display:table;content:' '}.form-horizontal .form-group:after{clear:both}.btn{display:inline-block;margin-bottom:0;font-weight:400;text-align:center;white-space:nowrap;vertical-align:middle;touch-action:manipulation;cursor:pointer;background-image:none;border:1px solid transparent;padding:6px 12px;font-size:14px;line-height:1.5;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.btn.focus,.btn:focus,.btn:hover{color:#333;text-decoration:none}.btn.active,.btn:active{background-image:none;outline:0;box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}.btn.disabled,.btn[disabled],fieldset[disabled] .btn{cursor:not-allowed;opacity:.65;box-shadow:none}a.btn.disabled,fieldset[disabled] a.btn{pointer-events:none}.btn-primary{background-color:#337ab7;border-color:#2e6da4}.btn-primary.focus,.btn-primary:focus{color:#fff;background-color:#286090;border-color:#122b40}.btn-primary:hover{color:#fff;background-color:#286090;border-color:#204d74}.btn-primary.active,.btn-primary:active,.open>.btn-primary.dropdown-toggle{color:#fff;background-color:#286090;background-image:none;border-color:#204d74}.btn-primary.active.focus,.btn-primary.active:focus,.btn-primary.active:hover,.btn-primary:active.focus,.btn-primary:active:focus,.btn-primary:active:hover,.open>.btn-primary.dropdown-toggle.focus,.open>.btn-primary.dropdown-toggle:focus,.open>.btn-primary.dropdown-toggle:hover{color:#fff;background-color:#204d74;border-color:#122b40}.btn-primary.disabled.focus,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary[disabled].focus,.btn-primary[disabled]:focus,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary.focus,fieldset[disabled] .btn-primary:focus,fieldset[disabled] .btn-primary:hover{background-color:#337ab7;border-color:#2e6da4}.btn-success{color:#fff;background-color:#5cb85c;border-color:#4cae4c}.btn-success.focus,.btn-success:focus{color:#fff;background-color:#449d44;border-color:#255625}.btn-success:hover{color:#fff;background-color:#449d44;border-color:#398439}.btn-success.active,.btn-success:active,.open>.btn-success.dropdown-toggle{color:#fff;background-color:#449d44;background-image:none;border-color:#398439}.btn-success.active.focus,.btn-success.active:focus,.btn-success.active:hover,.btn-success:active.focus,.btn-success:active:focus,.btn-success:active:hover,.open>.btn-success.dropdown-toggle.focus,.open>.btn-success.dropdown-toggle:focus,.open>.btn-success.dropdown-toggle:hover{color:#fff;background-color:#398439;border-color:#255625}.btn-success.disabled.focus,.btn-success.disabled:focus,.btn-success.disabled:hover,.btn-success[disabled].focus,.btn-success[disabled]:focus,.btn-success[disabled]:hover,fieldset[disabled] .btn-success.focus,fieldset[disabled] .btn-success:focus,fieldset[disabled] .btn-success:hover{background-color:#5cb85c;border-color:#4cae4c}.btn-info{color:#fff;background-color:#5bc0de;border-color:#46b8da}.btn-info.focus,.btn-info:focus{color:#fff;background-color:#31b0d5;border-color:#1b6d85}.btn-info:hover{color:#fff;background-color:#31b0d5;border-color:#269abc}.btn-info.active,.btn-info:active,.open>.btn-info.dropdown-toggle{color:#fff;background-color:#31b0d5;background-image:none;border-color:#269abc}.btn-info.active.focus,.btn-info.active:focus,.btn-info.active:hover,.btn-info:active.focus,.btn-info:active:focus,.btn-info:active:hover,.open>.btn-info.dropdown-toggle.focus,.open>.btn-info.dropdown-toggle:focus,.open>.btn-info.dropdown-toggle:hover{color:#fff;background-color:#269abc;border-color:#1b6d85}.btn-info.disabled.focus,.btn-info.disabled:focus,.btn-info.disabled:hover,.btn-info[disabled].focus,.btn-info[disabled]:focus,.btn-info[disabled]:hover,fieldset[disabled] .btn-info.focus,fieldset[disabled] .btn-info:focus,fieldset[disabled] .btn-info:hover{background-color:#5bc0de;border-color:#46b8da}.btn-warning{color:#fff;background-color:#f0ad4e;border-color:#eea236}.btn-warning.focus,.btn-warning:focus{color:#fff;background-color:#ec971f;border-color:#985f0d}.btn-warning:hover{color:#fff;background-color:#ec971f;border-color:#d58512}.btn-warning.active,.btn-warning:active,.open>.btn-warning.dropdown-toggle{color:#fff;background-color:#ec971f;background-image:none;border-color:#d58512}.btn-warning.active.focus,.btn-warning.active:focus,.btn-warning.active:hover,.btn-warning:active.focus,.btn-warning:active:focus,.btn-warning:active:hover,.open>.btn-warning.dropdown-toggle.focus,.open>.btn-warning.dropdown-toggle:focus,.open>.btn-warning.dropdown-toggle:hover{color:#fff;background-color:#d58512;border-color:#985f0d}.btn-warning.disabled.focus,.btn-warning.disabled:focus,.btn-warning.disabled:hover,.btn-warning[disabled].focus,.btn-warning[disabled]:focus,.btn-warning[disabled]:hover,fieldset[disabled] .btn-warning.focus,fieldset[disabled] .btn-warning:focus,fieldset[disabled] .btn-warning:hover{background-color:#f0ad4e;border-color:#eea236}.btn-danger{color:#fff;background-color:#d9534f;border-color:#d43f3a}.btn-danger.focus,.btn-danger:focus{color:#fff;background-color:#c9302c;border-color:#761c19}.btn-danger:hover{color:#fff;background-color:#c9302c;border-color:#ac2925}.btn-danger.active,.btn-danger:active,.open>.btn-danger.dropdown-toggle{color:#fff;background-color:#c9302c;background-image:none;border-color:#ac2925}.btn-danger.active.focus,.btn-danger.active:focus,.btn-danger.active:hover,.btn-danger:active.focus,.btn-danger:active:focus,.btn-danger:active:hover,.open>.btn-danger.dropdown-toggle.focus,.open>.btn-danger.dropdown-toggle:focus,.open>.btn-danger.dropdown-toggle:hover{color:#fff;background-color:#ac2925;border-color:#761c19}.btn-danger.disabled.focus,.btn-danger.disabled:focus,.btn-danger.disabled:hover,.btn-danger[disabled].focus,.btn-danger[disabled]:focus,.btn-danger[disabled]:hover,fieldset[disabled] .btn-danger.focus,fieldset[disabled] .btn-danger:focus,fieldset[disabled] .btn-danger:hover{background-color:#d9534f;border-color:#d43f3a}.btn-link{font-weight:400;border-radius:0}.btn-link,.btn-link.active,.btn-link:active,.btn-link[disabled],fieldset[disabled] .btn-link{background-color:transparent;box-shadow:none}.btn-link,.btn-link:active,.btn-link:focus,.btn-link:hover{border-color:transparent}.btn-link:focus,.btn-link:hover{color:#2556ce;text-decoration:underline;background-color:transparent}.btn-link[disabled]:focus,.btn-link[disabled]:hover,fieldset[disabled] .btn-link:focus,fieldset[disabled] .btn-link:hover{color:#777;text-decoration:none}.btn-block{display:block;width:100%}.btn-block+.btn-block{margin-top:5px}input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-block{width:100%}.fade{opacity:0;transition:opacity .15s linear}.fade.in{opacity:1}.collapse{display:none}.collapse.in{display:block}tr.collapse.in{display:table-row}tbody.collapse.in{display:table-row-group}.collapsing{position:relative;height:0;overflow:hidden;transition-property:height,visibility;transition-duration:.35s;transition-timing-function:ease}.caret{display:inline-block;width:0;height:0;margin-left:2px;vertical-align:middle;border-top:4px dashed;border-right:4px solid transparent;border-left:4px solid transparent}.dropup .caret,.navbar-fixed-bottom .dropdown .caret{content:'';border-top:0;border-bottom:4px dashed}.btn .caret{margin-left:0}[data-toggle=buttons]>.btn input[type=radio],[data-toggle=buttons]>.btn-group>.btn input[type=radio]{position:absolute;clip:rect(0,0,0,0);pointer-events:none}.input-group{position:relative;display:table;border-collapse:separate}.input-group[class*=col-]{float:none;padding-right:0;padding-left:0}.input-group .form-control{position:relative;z-index:2;float:left;width:100%;margin-bottom:0}.input-group .form-control:focus{z-index:3}.nav{padding-left:0;margin-bottom:0;list-style:none}.nav:after,.nav:before{display:table;content:' '}.nav:after{clear:both}.nav>li,.nav>li>a{position:relative;display:block}.nav>li>a{padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.nav>li.disabled>a{color:#777}.nav>li.disabled>a:focus,.nav>li.disabled>a:hover{color:#777;text-decoration:none;cursor:not-allowed;background-color:transparent}.nav .open>a,.nav .open>a:focus,.nav .open>a:hover{background-color:#eee;border-color:#30b13a}.nav>li>a>img{max-width:none}.navbar{position:relative;min-height:50px;margin-bottom:21px;border:1px solid transparent}.navbar:after,.navbar:before{display:table;content:' '}.navbar:after{clear:both}.navbar-collapse{padding-right:15px;padding-left:15px;overflow-x:visible;border-top:1px solid transparent;box-shadow:inset 0 1px 0 hsla(0,0%,100%,.1);-webkit-overflow-scrolling:touch}.navbar-collapse:after,.navbar-collapse:before{display:table;content:' '}.navbar-collapse:after{clear:both}.navbar-collapse.in{overflow-y:auto}.navbar-fixed-bottom,.navbar-fixed-top{position:fixed;right:0;left:0;z-index:1030}.navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse{max-height:340px}@media (max-device-width:480px) and (orientation:landscape){.navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse{max-height:200px}}.navbar-fixed-top{top:0;border-width:0 0 1px}.navbar-fixed-bottom{bottom:0;margin-bottom:0;border-width:1px 0 0}.container-fluid>.navbar-collapse,.container-fluid>.navbar-header,.container>.navbar-collapse,.container>.navbar-header{margin-right:-15px;margin-left:-15px}.navbar-static-top{z-index:1000;border-width:0 0 1px}.navbar-brand{float:left;height:50px;padding:14.5px 15px;font-size:18px;line-height:21px}.navbar-brand:focus,.navbar-brand:hover{text-decoration:none}.navbar-brand>img{display:block}.navbar-toggle{position:relative;float:right;padding:9px 10px;margin-right:15px;margin-top:8px;margin-bottom:8px;background-color:transparent;background-image:none;border:1px solid transparent;border-radius:4px}.navbar-toggle:focus{outline:0}.navbar-toggle .icon-bar{display:block;width:22px;height:2px;border-radius:1px}.navbar-toggle .icon-bar+.icon-bar{margin-top:4px}.navbar-nav{margin:7.25px -15px}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:21px}@media (min-width:768px){.lead{font-size:21px}.container{width:750px}.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9{float:left}.col-sm-1{width:8.3333333333%}.col-sm-2{width:16.6666666667%}.col-sm-3{width:25%}.col-sm-4{width:33.3333333333%}.col-sm-5{width:41.6666666667%}.col-sm-6{width:50%}.col-sm-7{width:58.3333333333%}.col-sm-8{width:66.6666666667%}.col-sm-9{width:75%}.col-sm-10{width:83.3333333333%}.col-sm-11{width:91.6666666667%}.col-sm-12{width:100%}.form-horizontal .control-label{padding-top:7px;margin-bottom:0;text-align:right}.form-horizontal .form-group-sm .control-label{padding-top:6px;font-size:12px}.navbar{border-radius:4px}.navbar-collapse{width:auto;border-top:0;box-shadow:none}.navbar-collapse.collapse{display:block;height:auto;padding-bottom:0;overflow:visible}.navbar-collapse.in{overflow-y:visible}.navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse,.navbar-static-top .navbar-collapse{padding-right:0;padding-left:0}.navbar-fixed-bottom,.navbar-fixed-top{border-radius:0}.container-fluid>.navbar-collapse,.container-fluid>.navbar-header,.container>.navbar-collapse,.container>.navbar-header{margin-right:0;margin-left:0}.navbar-static-top{border-radius:0}.navbar>.container .navbar-brand,.navbar>.container-fluid .navbar-brand{margin-left:-15px}.navbar-toggle{display:none}.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:14.5px;padding-bottom:14.5px}}.navbar-btn{margin-top:7.5px;margin-bottom:7.5px}.btn-group-sm>.navbar-btn.btn,.navbar-btn.btn-sm{margin-top:10px;margin-bottom:10px}.navbar-btn.btn-xs{margin-top:14px;margin-bottom:14px}.navbar-inverse{background-color:#222;border-color:#090909}.navbar-inverse .navbar-brand{color:#9d9d9d}.navbar-inverse .navbar-brand:focus,.navbar-inverse .navbar-brand:hover{color:#fff;background-color:transparent}.navbar-inverse .navbar-nav>li>a{color:#9d9d9d}.navbar-inverse .navbar-nav>li>a:focus,.navbar-inverse .navbar-nav>li>a:hover{color:#fff;background-color:transparent}.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:focus,.navbar-inverse .navbar-nav>.active>a:hover{color:#fff;background-color:#090909}.navbar-inverse .navbar-nav>.disabled>a,.navbar-inverse .navbar-nav>.disabled>a:focus,.navbar-inverse .navbar-nav>.disabled>a:hover{color:#444;background-color:transparent}.navbar-inverse .navbar-nav>.open>a,.navbar-inverse .navbar-nav>.open>a:focus,.navbar-inverse .navbar-nav>.open>a:hover{color:#fff;background-color:#090909}.navbar-inverse .navbar-toggle{border-color:#333}.navbar-inverse .navbar-toggle:focus,.navbar-inverse .navbar-toggle:hover{background-color:#333}.navbar-inverse .navbar-toggle .icon-bar{background-color:#fff}.navbar-inverse .navbar-collapse{border-color:#101010}.navbar-inverse .navbar-link{color:#9d9d9d}.navbar-inverse .navbar-link:hover{color:#fff}.navbar-inverse .btn-link{color:#9d9d9d}.navbar-inverse .btn-link:focus,.navbar-inverse .btn-link:hover{color:#fff}.navbar-inverse .btn-link[disabled]:focus,.navbar-inverse .btn-link[disabled]:hover,fieldset[disabled] .navbar-inverse .btn-link:focus,fieldset[disabled] .navbar-inverse .btn-link:hover{color:#444}.label{display:inline;padding:.2em .6em .3em;font-size:75%;font-weight:700;line-height:1;color:#fff;text-align:center;white-space:nowrap;vertical-align:baseline;border-radius:.25em}.label:empty{display:none}.btn .label{position:relative;top:-1px}a.label:focus,a.label:hover{color:#fff;text-decoration:none;cursor:pointer}.alert{padding:15px;margin-bottom:21px;border:1px solid transparent;border-radius:4px}.alert h4{margin-top:0;color:inherit}.alert .alert-link{font-weight:700}.alert>p,.alert>ul{margin-bottom:0}.alert>p+p{margin-top:5px}.alert-danger{color:#a94442;background-color:#f2dede;border-color:#ebccd1}.alert-danger hr{border-top-color:#e4b9c0}.alert-danger .alert-link{color:#843534}@-webkit-keyframes progress-bar-stripes{0%{background-position:40px 0}to{background-position:0 0}}@keyframes progress-bar-stripes{0%{background-position:40px 0}to{background-position:0 0}}.close{float:right;font-size:21px;font-weight:700;line-height:1;color:#30b13a;text-shadow:0 1px 0 #fff;opacity:.2}.close:focus,.close:hover{color:#30b13a;text-decoration:none;cursor:pointer;opacity:.5}button.close{padding:0;cursor:pointer;background:0 0;border:0;-webkit-appearance:none;-moz-appearance:none;appearance:none}.carousel,.carousel-inner{position:relative}.carousel-inner{width:100%;overflow:hidden}.carousel-inner>.item{position:relative;display:none;transition:left .6s ease-in-out}.carousel-inner>.item>a>img,.carousel-inner>.item>img{display:block;max-width:100%;height:auto;line-height:1}@media (-webkit-transform-3d),(transform-3d){.carousel-inner>.item{transition:-webkit-transform .6s ease-in-out;transition:transform .6s ease-in-out;transition:transform .6s ease-in-out,-webkit-transform .6s ease-in-out;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-perspective:1000px;perspective:1000px}.carousel-inner>.item.active.right,.carousel-inner>.item.next{-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0);left:0}.carousel-inner>.item.active.left,.carousel-inner>.item.prev{-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0);left:0}.carousel-inner>.item.active,.carousel-inner>.item.next.left,.carousel-inner>.item.prev.right{-webkit-transform:translateZ(0);transform:translateZ(0);left:0}}.carousel-inner>.active,.carousel-inner>.next,.carousel-inner>.prev{display:block}.carousel-inner>.active{left:0}.carousel-inner>.next,.carousel-inner>.prev{position:absolute;top:0;width:100%}.carousel-inner>.next{left:100%}.carousel-inner>.prev{left:-100%}.carousel-inner>.next.left,.carousel-inner>.prev.right{left:0}.carousel-inner>.active.left{left:-100%}.carousel-inner>.active.right{left:100%}.carousel-control{position:absolute;top:0;bottom:0;left:0;width:15%;font-size:20px;color:#fff;text-align:center;text-shadow:0 1px 2px rgba(0,0,0,.6);background-color:transparent;opacity:.5}.carousel-control.left{background-image:linear-gradient(90deg,rgba(0,0,0,.5) 0,rgba(0,0,0,.0001));background-repeat:repeat-x}.carousel-control.right{right:0;left:auto;background-image:linear-gradient(90deg,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5));background-repeat:repeat-x}.carousel-control:focus,.carousel-control:hover{color:#fff;text-decoration:none;outline:0;opacity:.9}.carousel-control .glyphicon-chevron-left,.carousel-control .glyphicon-chevron-right,.carousel-control .icon-next,.carousel-control .icon-prev{position:absolute;top:50%;z-index:5;display:inline-block;margin-top:-10px}.carousel-control .glyphicon-chevron-left,.carousel-control .icon-prev{left:50%;margin-left:-10px}.carousel-control .glyphicon-chevron-right,.carousel-control .icon-next{right:50%;margin-right:-10px}.carousel-control .icon-next,.carousel-control .icon-prev{width:20px;height:20px;font-family:serif;line-height:1}.carousel-control .icon-prev:before{content:'‹'}.carousel-control .icon-next:before{content:'›'}.carousel-indicators{position:absolute;bottom:10px;left:50%;z-index:15;width:60%;padding-left:0;margin-left:-30%;text-align:center;list-style:none}.carousel-indicators li{display:inline-block;width:10px;height:10px;margin:1px;text-indent:-999px;cursor:pointer;background-color:transparent;border:1px solid #fff;border-radius:10px;visibility:hidden}.carousel-indicators .active{width:12px;height:12px;margin:0;background-color:#fff}@media screen and (min-width:768px){.carousel-control .glyphicon-chevron-left,.carousel-control .glyphicon-chevron-right,.carousel-control .icon-next,.carousel-control .icon-prev{width:30px;height:30px;margin-top:-10px;font-size:30px}.carousel-control .glyphicon-chevron-left,.carousel-control .icon-prev{margin-left:-10px}.carousel-control .glyphicon-chevron-right,.carousel-control .icon-next{margin-right:-10px}.carousel-indicators{bottom:20px}}.clearfix:after,.clearfix:before{display:table;content:' '}.clearfix:after{clear:both}.center-block{display:block;margin-right:auto;margin-left:auto}.pull-right{float:right}.pull-left{float:left}.hide{display:none}.show{display:block}.invisible{visibility:hidden}.text-hide{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0}.hidden{display:none}.affix{position:fixed}.visible-lg,.visible-lg-block,.visible-lg-inline,.visible-lg-inline-block,.visible-md,.visible-md-block,.visible-md-inline,.visible-md-inline-block,.visible-sm,.visible-sm-block,.visible-sm-inline,.visible-sm-inline-block,.visible-xs,.visible-xs-block,.visible-xs-inline,.visible-xs-inline-block{display:none}@media (max-width:767px){.visible-xs{display:block}table.visible-xs{display:table}tr.visible-xs{display:table-row}td.visible-xs,th.visible-xs{display:table-cell}}.nifty-modal{position:fixed;top:50%;left:50%;width:50%;max-width:630px;min-width:320px;height:auto;z-index:2000;visibility:hidden;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%)}.md-show{visibility:visible}.pt-4,.py-4{padding-top:1.5rem}.py-4{padding-bottom:1.5rem}.mb-3,.my-3{margin-bottom:1rem}.font-weight-bold{font-weight:700}.pt-1,.py-1{padding-top:.25rem}.py-1{padding-bottom:.25rem}.mt-2,.my-2{margin-top:.5rem}.mt-3,.my-3{margin-top:1rem}.mt-4,.my-4{margin-top:1.5rem}.mx-2{margin-left:.5rem;margin-right:.5rem}.table>tbody>tr>td,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>th{vertical-align:middle}@media screen and (max-width:992px){.d-sm-none{display:none}}@media screen and (min-width:992px){.d-sm-none{display:block}}@media screen and (max-width:992px){.d-lg-none{display:block}}@media screen and (min-width:992px){.d-lg-none{display:none}}.d-inline-block{display:inline-block}.u-underline{text-decoration:underline}@media (min-width:769px){.d-md-pl-0{padding-right:0}.d-md-pl-5{padding-right:5px}}html{font-size:inherit}.no-gutters{margin-right:0;margin-left:0}.no-gutters>.col,.no-gutters>[class*=col-]{padding-right:0;padding-left:0}.d-none{display:none}.d-block{display:block}.img-fluid{max-width:100%;height:auto}h1,h2,h3,h4,h5,h6{margin-top:0}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin-bottom:.5rem}dl,ol,p,ul{margin-top:0;margin-bottom:1rem}body,html{height:100%}.content,.main-content{height:auto;min-height:600px;margin-bottom:100px}.mobile .content,.mobile .main-content{margin-bottom:200px}.mobile .acc .content,.mobile .acc .main-content{margin-bottom:400px}.content-loader,.loader-wrapper{position:relative}.content-loader{height:400px}body{min-height:1001px;background-image:none;background-color:#30b13a;color:#fff}[type=radio]{box-sizing:border-box;padding:0}i{line-height:inherit}input:-webkit-autofill,input:-webkit-autofill:focus,input:-webkit-autofill:hover,select:-webkit-autofill,select:-webkit-autofill:focus,select:-webkit-autofill:hover,textarea:-webkit-autofill,textarea:-webkit-autofill:focus,textarea:-webkit-autofill:hover{-webkit-text-fill-color:#fff;-webkit-transition:background-color 5000s ease-in-out 0s;transition:background-color 5000s ease-in-out 0s}.title{color:#ccbc98;font-family:Montserrat,sans-serif}.btn,.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus{outline:0}@media screen and (max-width:992px){.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus{color:#fff}}@media screen and (min-width:992px){.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus{color:#fff}}.btn.btn-clear{color:inherit;font-weight:inherit;padding:0;font-size:inherit;background:0 0;outline:0}.btn-primary{background-color:#30b13a;color:#fff;border-color:#30b13a;border-radius:0}.btn-primary.active,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.btn-primary[disabled]{background-color:#cc001b;color:#180d0d;border-color:#cc001b}.btn-primary--dark{background-color:#0e1c2a;color:#fff;border-color:#0e1c2a;border-radius:0}.btn-primary--dark.active,.btn-primary--dark:active,.btn-primary--dark:focus,.btn-primary--dark:hover,.btn-primary--dark[disabled]{background-color:#ffb907a8;color:#e0e0e0;border-color:#ffb907a8}.btn-secondary{background-color:#30b13a;color:#fff;border-color:#30b13a;border-radius:0}.btn-secondary.active,.btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover,.btn-secondary[disabled]{background-color:#7696e6;color:#180d0d;border-color:#7696e6}.btn-tertiery{background-color:#c98000;color:#180d0d;border-color:#c98000;border-radius:0}.btn-tertiery.active,.btn-tertiery:active,.btn-tertiery:focus,.btn-tertiery:hover,.btn-tertiery[disabled]{background-color:#a0a0a0;color:#180d0d;border-color:#a0a0a0}.btn-accent{background-color:#cc001b;color:#fff;border-color:#cc001b;border-radius:0}.btn-accent.active,.btn-accent:active,.btn-accent:focus,.btn-accent:hover,.btn-accent[disabled]{background-color:#f8e295;color:#fff;border-color:#f8e295}.btn-round{border-radius:60px;padding:7px 14px;margin-bottom:5px;text-align:center}.waves-effect{position:relative;cursor:pointer;display:inline-block;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent;vertical-align:middle;z-index:1;will-change:opacity,transform;transition:all .1s ease-out}.modal-header button.close{outline:0}.header.danger{background-color:#c70022}.header.info{background-color:#17a2b8}.header.warning{background-color:#ffc107}.header.success{background-color:#28a745}.ico-alert.danger{color:#c70022}.ico-alert.info{color:#17a2b8}.ico-alert.warning{color:#ffc107}.ico-alert.success{color:#28a745}.btn-link{color:#30b13a;display:inline;padding:0;font-weight:inherit;vertical-align:inherit}.btn-link:disabled,.btn-link:focus,.btn-link:hover,.btn-link[disabled]{color:#30b13a;opacity:1}a:link,a:visited{text-decoration:none}.txt_accent,b,strong{font-weight:bolder;font-weight:700}.txt_accent{color:#f8e295}.material-icons{font-size:inherit}.text-t500{color:#724c4c}a.text-t500:focus,a.text-t500:hover{color:#533838}.text-t600,a.text-t600:focus,a.text-t600:hover{color:#30b13a}.text-primary-2{color:#e2e8f9}a.text-primary-2:focus,a.text-primary-2:hover{color:#b8c7f0}.font-size-sm{font-size:11.2px}.font-size-lg{font-size:17.5px}.fs-md{font-size:16px}.fs-sm{font-size:11.2px}.fs-lg{font-size:17.5px}.fs-xl{font-size:22.4px}.fs-xxl{font-size:28px}.fs-xs{font-size:8.96px}.fs-xxs{font-size:7.168px}.noSidePadding{padding-right:0;padding-left:0}.pointer{cursor:pointer}i{color:inherit;font-weight:inherit}ol,ul{padding:0;margin:0 0 10px 25px}.dotted_line{border-bottom:1px dotted #fff}.img-center{display:block}.center,.img-center{margin:0 auto}.flex-row{display:-webkit-flex;display:flex;-webkit-flex-flow:row nowrap;flex-flow:row nowrap;-ms-flex-align:center;-ms-flex-pack:justify;width:100%}.flex,.flex-row{-webkit-align-items:center;align-items:center}.flex{display:-webkit-flex;display:flex}.flex-no-wrap{-webkit-flex-wrap:nowrap;flex-wrap:nowrap}.flex-wrap{-webkit-flex-wrap:wrap;flex-wrap:wrap}.flex-align-top{-webkit-align-items:flex-start;align-items:flex-start}.auto-box{-webkit-flex-basis:0;flex-basis:0;-webkit-flex-grow:1;flex-grow:1}.mobile .auto-box{min-width:100px;max-width:100px}.border-box{border:1px solid #424242;padding:1em}.fixed-bottom-left{position:fixed;bottom:20%;left:0;z-index:888}.gradient-border{position:relative}.gradient-border:before{position:absolute;bottom:0;content:'';width:90%;height:0;border-bottom:2px solid #d8d8d8;-o-border-image:linear-gradient(90deg,rgba(24,13,13,.5),#d8d8d8,rgba(24,13,13,.5)) 1 100%;border-image:linear-gradient(90deg,rgba(24,13,13,.5),#d8d8d8,rgba(24,13,13,.5)) 1 100%;border-image-slice:1 1 1 1}.gradient-border:after{position:absolute;top:0;right:0;content:'';width:0;height:90%;border-right:2px solid #d8d8d8;-o-border-image:linear-gradient(180deg,rgba(24,13,13,.5),#d8d8d8,rgba(24,13,13,.5)) 1 100%;border-image:linear-gradient(180deg,rgba(24,13,13,.5),#d8d8d8,rgba(24,13,13,.5)) 1 100%;border-image-slice:1 1 1 1}@media (min-width:768px) and (max-width:991px){.gradient-border:last-of-type:before,.gradient-border:nth-last-of-type(2):before,.gradient-border:nth-of-type(2n):after{content:none}}@media (min-width:992px){.gradient-border:last-of-type:before,.gradient-border:nth-last-of-type(2):before,.gradient-border:nth-last-of-type(3):before,.gradient-border:nth-of-type(3n):after{content:none}}@-webkit-keyframes flash-border{0%{-webkit-filter:blur(15px);filter:blur(15px)}to{-webkit-filter:blur(25px);filter:blur(25px);opacity:1}}@keyframes flash-border{0%{-webkit-filter:blur(15px);filter:blur(15px)}to{-webkit-filter:blur(25px);filter:blur(25px);opacity:1}}app-content-pagination pagination{-webkit-transform:translateX(-25%);transform:translateX(-25%)}.button{position:relative;display:inline-block;background-color:transparent;text-transform:uppercase;font-size:inherit;letter-spacing:.03em;touch-action:none;cursor:pointer;font-weight:bolder;text-align:center;color:currentColor;text-decoration:none;border:1px solid transparent;vertical-align:middle;border-radius:0;margin-top:0;margin-right:1em;text-shadow:none;line-height:2.4em;min-height:2.5em;padding:0 1.2em;max-width:100%;transition:border .3s,background .3s,box-shadow .3s,opacity .3s,color .3s,-webkit-transform .3s;transition:transform .3s,border .3s,background .3s,box-shadow .3s,opacity .3s,color .3s;transition:transform .3s,border .3s,background .3s,box-shadow .3s,opacity .3s,color .3s,-webkit-transform .3s;text-rendering:optimizeLegibility;box-sizing:border-box}.button.facebook:hover{color:#3a589d}.button.twitter:hover{color:#38c0ff}.button.instagram:hover{color:#3b6994}.button.youtube:hover{color:#f90018}.button.is-outline{line-height:2.19em;border:2px solid;background-color:transparent}.button.icon{margin-left:.12em;margin-right:.12em;min-width:2.5em;padding-left:.6em;padding-right:.6em;display:inline-block}.button.icon.circle{padding-left:0;padding-right:0}.button i{vertical-align:middle;top:-1px;position:relative}.circle{border-radius:50%}.pin-in-grp>div{padding:0 5px}.pin-in-grp input{text-align:center;float:left}@media (min-width:600px){.modal-sm{max-width:350px}}.member-service{white-space:nowrap;overflow:hidden}.member-service i{font-size:28.728px}.mobile .member-service .content-item{display:inline-block}app-home-info a{color:#fff}input[type=password]{letter-spacing:.3em}.input-group.uline{border-bottom:1px solid #8ea9eb}.form-control{border-color:#8ea9eb;background-color:transparent;height:30px;color:#fff;-webkit-text-fill-color:#fff;border-radius:0}.form-control.underline{border-top:none;border-left:none;border-right:none;border-radius:0;outline:0;box-shadow:none;border:none}.form-control[disabled],.form-control[readonly],fieldset[disabled] .form-control{background-color:rgba(185,190,195,.3);color:#fff;opacity:.6;border:1px solid rgba(185,190,195,.3)}select{color:#948080}select>option{background-color:#30b13a;color:#fff}select.form-control{padding-top:2px}.form-control.focus{color:#30b13a;background-color:#fff;border-color:#80bdff;outline:0;box-shadow:0 0 0 .2rem rgba(0,123,255,.25)}.form-control.ng-invalid.ng-dirty~.invalid-feedback,.was-validated .form-check-input.ng-invalid~.invalid-feedback,.was-validated .form-check-input.ng-invalid~.invalid-tooltip,.was-validated .form-control.ng-invalid~.invalid-feedback{display:block}.form-check-input.ng-invalid.ng-dirty~.form-check-label,.was-validated .form-check-input.ng-invalid~.form-check-label{color:#c70022}app-Slots-main .content-wrapper{height:80%}app-Slots-main ul.pagination{margin-left:-4em}@media screen and (max-width:992px){.sideNav nav{font-size:12px}}@media screen and (min-width:992px){.sideNav nav{font-size:17.5px}}.navbar{border-radius:0;min-height:auto;margin:20px 0}.navbar-expand-lg .navbar-collapse{display:-webkit-flex;display:flex;-webkit-flex-basis:auto;flex-basis:auto;-webkit-justify-content:center;justify-content:center}@media screen and (max-width:992px){.hidden-md{display:none}.navbar{padding:0}div.menu-select{display:block}.navbar-nav{margin:0;width:100%}.collapse{transition:all .3s ease-out;overflow:hidden;max-height:0}.collapse.in{transition:all .8s ease-in;max-height:3000px}}textarea.mat-control{resize:none}input.mat-control,textarea.mat-control{background:0 0;color:#bec3ca;padding:10px 10px 10px 5px;display:block;width:100%;border-radius:0;border:none;border-bottom:1px solid #bec3ca}input.mat-control:focus,textarea.mat-control:focus{outline:0}input.mat-control:disabled~label,input.mat-control:focus~label,input.mat-control:valid~label,textarea.mat-control:disabled~label,textarea.mat-control:focus~label,textarea.mat-control:valid~label{top:-14px;font-size:12px;color:#fff}input.mat-control:focus~.bar:before,textarea.mat-control:focus~.bar:before{width:100%}@media screen and (max-width:992px){.container-wrapper,.content,.full-container,.main-content,body,html{height:100%}body.mobile{background-color:#30b13a;background-image:none;color:#fff}body.mobile h2{font-size:19px}body.mobile h3,body.mobile h4{font-size:16px}body.mobile h5{font-size:12px}body.mobile .gradient-box{background-color:#30b13a}body.mobile .gradient-border:after,body.mobile .gradient-border:before{content:none}body.mobile .mobile-border{display:block;border-top:3px solid rgba(34,63,105,.8);margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw)}body.mobile .overlay-wrapper{box-shadow:0 .125rem .25rem rgba(0,0,0,.7)}body.mobile .btn-fancy{background-color:#30b13a}}.carousel-indicators li{border-color:#30b13a}.carousel-indicators li.active{background-color:#30b13a}img.lazy{opacity:0}span.verti{height:100%}div.verti,span.verti{vertical-align:middle;display:inline-block}.lazy,.lazyloading{opacity:0;transition:opacity .4s}img.lazyloaded{opacity:1;transition:opacity .4s}img.lazyload:not([src]){visibility:hidden}.text-danger{color:#c70022}.hot-game-tag{top:-4px;left:-4px;height:51px}.daily-wins,.hot-game-tag{position:absolute;z-index:1;width:60px;background-size:60px}.daily-wins{bottom:0;right:0;height:61px;background-image:url(images/daily-win_1000x1000.png)}@-webkit-keyframes blinking{50%{opacity:0}}@keyframes blinking{50%{opacity:0}}.footer_btm_logo_img img{max-height:70px;height:auto}#loginForm .btn-refresh{vertical-align:middle;padding-top:0;margin-top:0;border:0;background-color:transparent;position:relative;text-align:left}#loginForm .captcha_img{padding:0;vertical-align:top;top:0}#loginForm .icon-refresh{padding-left:7.5px;font-size:18px;margin-top:5px;display:inline-block}.mobile #loginForm .icon-refresh{padding-left:15px}.layout.full-container{position:relative;top:0;bottom:0;left:0;right:0}.layout .side-nav{height:100%;position:fixed;z-index:1;top:0;left:0;overflow-x:hidden;transition:.3s;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0);visibility:hidden}.layout .side-nav.open{-webkit-transform:none;transform:none;visibility:visible;z-index:999999999999}.layout .side-nav.navContentOpen{width:200px}.layout .main-content{transition-duration:.4s;transition-timing-function:cubic-bezier(.25,.8,.25,1);transition-property:margin-left,margin-right,right,left,-webkit-transform;transition-property:transform,margin-left,margin-right,right,left;transition-property:transform,margin-left,margin-right,right,left,-webkit-transform;z-index:1;position:relative}.layout .main-content.sideNavOpen{margin-left:100px;margin-right:-100px}.layout .main-content.sideNavOpen .top-bar{left:100px;right:-100px}.layout .main-content.navContentOpen{margin-left:200px;margin-right:-200px}.layout .main-content.navContentOpen .top-bar{left:200px;right:-200px}.layout .main-content.rightSideBarOpen{margin-right:20rem;margin-left:-20rem;z-index:99999999999}@media (min-width:768px){.layout .main-content.rightSideBarOpen{margin-right:40rem;margin-left:-40rem}}.layout .main-content.rightSideBarOpen .top-bar{right:20rem;left:-20rem}@media (min-width:768px){.layout .main-content.rightSideBarOpen .top-bar{margin-right:40rem;margin-left:-40rem}}.layout .content.my01{margin-top:47px;height:auto;display:inline-block;width:100%;margin-bottom:0}.navContentOpen .backdrop:before,.rightSideBarOpen .backdrop:before,.sideNavOpen .backdrop:before{content:'';position:absolute;top:-47px;left:0;height:auto;bottom:-150%;right:0;width:100%;z-index:1000;padding:15px;background:rgba(38,56,77,.8)}.footer-desc{margin-top:1em}.top-bar{position:fixed;top:0;left:0;right:0;z-index:999}.top-bar .inner-header{background-color:#30b13a;background-image:none;color:#30b13a;opacity:.95;-webkit-justify-content:space-between;justify-content:space-between}.top-bar a,.top-bar button{display:flex;align-items:center;height:47px;font-size:1.6rem;color:#30b13a;padding-left:15px;padding-right:15px;font-weight:900}.top-bar a{position:relative;text-decoration:none}.top-bar .btn:hover{color:currentColor;text-decoration:none;opacity:1}.top-bar .btn.focus,.top-bar .btn:focus{outline:0;box-shadow:none}.top-bar a>div,.top-bar a>i{line-height:47px;height:47px;vertical-align:middle}.top-bar a>div{padding:3px}.top-bar .logo img{height:44px;vertical-align:top}.side-nav-items{width:100px;list-style:none;margin:0;padding:0}.side-nav-items .pos.enlarge .circle{padding:.15em .25em}.side-nav-items .pos.enlarge i{font-size:35px}.side-nav-items .hot.sub{position:absolute;right:-10px;top:5px;display:inline-block;padding:1px 2px;background-color:red;color:#fff;font-size:.5em;border-radius:5px}.side-nav-items .hot.sub.new{background:linear-gradient(1deg,#fbd629,#ff0);color:#30b13a}.side-nav-items>.nav-item{border-bottom:1px solid rgba(38,56,77,.3);display:block}.side-nav-items>.nav-item>a{text-transform:uppercase;text-align:center;padding:15px 2px;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;color:#fff}.side-nav-items>.nav-item>a .nav-title{font-size:12px}.side-nav-items>.nav-item>a i{color:#fff;font-size:22.4px}.side-nav-items>.nav-item>a.active{background-color:#ffb907a8}.side-nav-items>.nav-item>a.active.notShowActive{background-color:transparent}.nav-item-content{width:100px;padding:2px;display:none;left:100px;bottom:0;top:0;position:absolute;background-color:#ff9800;overflow-y:scroll}.nav-item-content.open{display:block}.nav-content{height:100%;top:0;left:0;background:#30b13a;overflow-y:scroll}.nav-content ul{list-style:none;padding:0;margin:0}.nav-content .submenu li{display:block;border-bottom:1px solid rgba(38,56,77,.4)}.nav-content .submenu li a{text-align:center;color:#fff;font-size:22.4px;padding:15px;background-color:transparent;text-transform:uppercase;display:block}.nav-content .submenu li a>div{position:relative}.nav-content h4,.nav-content h5{margin-bottom:0}.nav-content span.circle{display:inline-block;border-radius:50%;padding:.25em .5em;background:#30b13a}.nav-content span.circle .icon-km_gaming_dark{color:#ffe024}#r-side-bar{height:100%;position:fixed;z-index:1030;top:0;right:0;overflow-x:hidden;width:0;background-color:#0e1c2a;transition:.3s}#r-side-bar.open{width:20rem}@media (min-width:768px){#r-side-bar.open{width:40rem}}#r-side-bar .side-bar-content{height:100%;width:100%;z-index:4;overflow-x:hidden}#r-side-bar .modal-title{font-weight:600}#r-side-bar .modal-footer{border-top:1px solid rgba(38,56,77,.3)}#r-side-bar .modal-header{border-bottom:1px solid rgba(38,56,77,.3)}#r-side-bar .footer-content{text-align:left;width:100%}#r-side-bar a{font-weight:900;position:relative}#langModal-mobile{top:50%}.footer-title{text-transform:uppercase;letter-spacing:2px;font-weight:400;font-size:20px}.i-collapse{border-radius:50%;padding:0 5px;background-color:#30b13a;color:#fff;font-size:20px;width:30px;height:30px;display:inline-block;transition:-webkit-transform .5s linear;transition:transform .5s linear;transition:transform .5s linear,-webkit-transform .5s linear}.i-collapse.rotate{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.footer-body{padding:.4rem 2rem}#btn-wrap--goToTop{display:none;position:fixed;bottom:20px;right:50%;-webkit-transform:translateX(100%);transform:translateX(100%);z-index:99}.menu-bottom .navbar-inverse{background-color:#30b13a;transition:all .35s ease}.menu-bottom .footericon-single{padding:0;width:20%}.menu-bottom .footericon-single a{font-size:10px;padding:3px 5px;display:block;color:#fff}.menu-bottom .footericon-single a i{font-size:20px;display:block}.menu-bottom .footericon-single a.footer-funds i{width:46px;height:46px;background-color:#30b13a;position:absolute;top:-20px;border-radius:50%;left:calc(50% - 23px);line-height:46px}.menu-bottom .footericon-single a.footer-funds div{margin-top:30px}.menu-bottom .footericon-single:last-child a{border:0}.menu-bottom .flex-row{-webkit-justify-content:space-between;justify-content:space-between}.menu-bottom .horizontal-hover{position:fixed;bottom:60px;left:calc(50% - 150px);width:300px;z-index:999;background-color:#cc001b;transition:all .35s ease;visibility:hidden;opacity:0}.menu-bottom .horizontal-hover.show{bottom:70px;opacity:1;visibility:visible;transition:all .5s ease}.menu-bottom .horizontal-hover.show:after{transition:all .5s ease .2s;bottom:-8px}.menu-bottom .horizontal-hover:after{content:'';position:absolute;left:calc(50% - 4px);border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid #cc001b;bottom:0;opacity:.95}.menu-bottom .horizontal-hover li{width:32%;vertical-align:middle;border-right:1px solid hsla(0,0%,100%,.15)}.menu-bottom .horizontal-hover li a{display:block;padding:8px 5px}.menu-bottom .horizontal-hover li:last-child{border-right:0}.menu-bottom .vertical-hover{position:absolute;bottom:85%;left:calc(50% - 20px);width:300px;z-index:999;transition:all .35s ease;visibility:hidden;opacity:0}.menu-bottom .vertical-hover li{display:block;background-color:#cc001b;width:48px;height:48px;border-radius:50%;line-height:45px;box-shadow:2px 2px 6px 0 rgba(0,0,0,.8);margin:-15px 0 4px;transition:all .35s ease}.menu-bottom .vertical-hover.show{bottom:85%;opacity:1;visibility:visible;transition:all .5s ease}.menu-bottom .vertical-hover.show li{margin-top:0;transition:all .5s ease}.jackpot{border-radius:0;padding-top:10px;padding-bottom:10px;position:relative;text-align:center}.jackpot .txt-overlay{position:absolute;top:0;left:0;width:100%;height:100%}.jackpot .text-content{text-align:center;height:100%;font-weight:900;color:#fff;padding-top:20px}@media screen and (max-width:992px){.jackpot .text-content{font-size:20px}}@media screen and (min-width:992px){.jackpot .text-content{font-size:2rem}}.jackpot .text-content:before{display:inline-block;content:'';height:100%;vertical-align:middle}.g-slider-wrapper ul::-webkit-scrollbar{display:none}.g-slider-wrapper ul{-ms-overflow-style:none;scrollbar-width:none}.g-slider-wrapper{padding-top:4px}.g-slider-wrapper ul{list-style-type:none;margin:0;padding:0;overflow:auto;overflow-y:hidden;white-space:nowrap}.g-slider-wrapper li{display:inline-block;position:relative}.g-slider-wrapper img{display:block;height:100%;width:100%;border-radius:5px}.g-slider-wrapper a.game-box,.g-slider-wrapper div.game-box{position:relative;display:block;margin-right:5px;width:82.5px;height:82.5px;color:inherit}.g-slider-wrapper .game-title{text-transform:uppercase;font-size:11.2px;overflow:hidden}label.radio{font-size:14px;color:#fff;position:relative}label.radio [type=radio]:checked,label.radio [type=radio]:not(:checked){position:absolute;opacity:0;pointer-events:none}label.radio [type=radio]:checked+span,label.radio [type=radio]:checked.has-success~.form-control-feedback~.error+span,label.radio [type=radio]:not(:checked)+span,label.radio [type=radio]:not(:checked).has-success~.form-control-feedback~.error+span{position:relative;padding-left:35px;cursor:pointer;display:inline-block;height:25px;line-height:25px;font-size:1rem;transition:.28s ease;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}label.radio .has-success~.form-control-feedback~.error+span:after,label.radio .has-success~.form-control-feedback~.error+span:before,label.radio [type=radio]+span:after,label.radio [type=radio]+span:before{content:'';position:absolute;left:0;top:0;margin:4px;width:16px;height:16px;z-index:0;transition:.28s ease;border-radius:50%}label.radio [type=radio]:not(:checked)+span:after,label.radio [type=radio]:not(:checked)+span:before,label.radio [type=radio]:not(:checked).has-success~.form-control-feedback~.error+span:after,label.radio [type=radio]:not(:checked).has-success~.form-control-feedback~.error+span:before{border:2px solid #fff}label.radio [type=radio].with-gap.has-success:not(:checked)~.form-control-feedback~.error+span:after,label.radio [type=radio]:not(:checked)+span:after{-webkit-transform:scale(0);transform:scale(0)}label.radio [type=radio].with-gap.has-success:checked~.form-control-feedback~.error+span:after,label.radio [type=radio].with-gap:checked+span:after{-webkit-transform:scale(.5);transform:scale(.5)}@media screen and (min-width:768px){.d-flex{display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center}}.acc.container-wrapper{background-color:color(primary,dark);height:100%}.d-flex{-ms-box-orient:horizontal;display:-moz-flex;display:-webkit-flex;display:flex}.align-items-center{-webkit-align-items:center;align-items:center}.outlet{padding:15px}.flex-wrap{-webkit-flex-wrap:wrap;flex-wrap:wrap}.m-15{margin:0 0 15px}.mlr-15{margin-left:15px;margin-right:15px}.flex-column{-webkit-flex-direction:column;flex-direction:column}.deposit .nav{margin-bottom:1em}.mobile .deposit .has-error~.help-block{margin-top:-15px}.mobile .deposit .has-error~.help-block#promo_code-error{position:relative;margin:0}.deposit .nav-btn-item{display:block;width:100%;padding:.5em 0;background-color:#fff;border-radius:0;position:relative;overflow:hidden}.deposit .nav-btn-item .overlay{background-color:rgba(38,56,77,.8);position:absolute;top:0;left:0;width:100%;height:100%;display:block}.deposit .nav-btn-item.active{background-color:#fff}.deposit .nav-btn-item.active .overlay{display:none}.deposit .bg-co-sm:before,.deposit .bg-um-sm:before{content:'';top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.deposit .channels-logo{position:relative;background:url(/assets/images/deposit-channels/deposit-channels.png?v=1.2) no-repeat;height:35px;margin:0 auto;z-index:1;width:100px}.deposit .logo-bank-transfer{background-position:0 0}.deposit .logo-help2pay{background-position:0 -124px}.deposit .logo-pay24u{background-position:0 -44px}.deposit .logo-vaderpay{background-position:0 -84px}.deposit .payments{padding:16px}.deposit .payments:after{content:'';background-image:radial-gradient(#30b13a 20%,#fff 100%);opacity:.25;position:absolute;top:0;bottom:0;left:0;right:0;z-index:0}.deposit .pay-title{text-transform:uppercase;font-weight:700}@media screen and (max-width:992px){.deposit .content-form{-webkit-order:2;order:2}}@media screen and (min-width:992px){.deposit .content-form{-webkit-order:1;order:1}}.mobile .deposit .content-form{margin:0 -15px}@media screen and (max-width:992px){.deposit .content-txt{-webkit-order:1;order:1}}@media screen and (min-width:992px){.deposit .content-txt{-webkit-order:2;order:2}}.mobile .user_bank .mob_add_btn{margin-top:0;padding:0}.mobile .user_bank #bank_user_id-error{width:160px}.mobile .user_bank .col-xs-8{padding:0}.mobile .user_bank #btn_add_ubank__depo{height:30px;padding:0 15px}.mobile .methods_form .pg_sec .pg_method{width:100%}.user_bank .bank_add_btn_sec{position:absolute;top:0;right:0;margin-top:15px}.gListSection{padding:0 15px;overflow-y:auto;overflow-x:hidden;max-height:405px}.gListSection .mobile-border{border-width:1px}.enlarge i{color:red;position:relative;top:5px;line-height:38px;display:inline}.scroll-wrapper.carr{-webkit-flex-wrap:nowrap;flex-wrap:nowrap;display:-webkit-flex;display:flex}.scroll-wrapper.carr .btn-box{width:100%;display:block;text-align:center;min-width:80px;padding:10px;color:inherit;font-weight:100;height:80px;position:relative}.scroll-wrapper.carr .btn-box .hot{position:absolute;right:0;top:5px;display:inline-block;padding:1px 2px;background-color:red;color:#fff;border-radius:5px}.scroll-wrapper.carr .btn-box .hot.new{background:linear-gradient(1deg,#fbd629,#ff0);color:#30b13a}.scroll-wrapper.carr .btn-box.enlarge i{font-size:40px}.scroll-wrapper.carr .btn-box div{text-transform:uppercase}.scroll-wrapper.carr .col{-webkit-flex-basis:0;flex-basis:0;-webkit-flex-grow:1;flex-grow:1;max-width:100%}.scroll-wrapper.carr .slider-content{width:100%;-webkit-flex-wrap:nowrap;flex-wrap:nowrap;display:-webkit-flex;display:flex;flex-wrap:nowrap;overflow:auto;white-space:nowrap;background:linear-gradient(180deg,#088107 0,#088107 21%,#088107 32%,#088107 38%,#088107 69%,#088107 83%,#088107);color:#fff}.scroll-wrapper.carr .slider-content i{font-size:28px;height:1.2em;display:inline-block;position:relative;margin-top:5px}.scroll-wrapper.carr .slider-content i~h4{margin-bottom:0}.scroll-wrapper.carr .slider-content i.icon-km_gaming_dark{color:#ffe024}.scroll-wrapper.carr .next-btn,.scroll-wrapper.carr .prev-btn{width:100%;background:linear-gradient(180deg,#088107 0,#088107 21%,#088107 32%,#088107 38%,#088107 69%,#088107 83%,#088107);padding:0;color:#fff;height:80px;border-radius:0}.scroll-wrapper.carr .left{-webkit-flex-basis:15px;flex-basis:15px}.scroll-wrapper.carr .scroller{overflow:hidden;-webkit-flex-basis:100%;flex-basis:100%}.scroll-wrapper.carr .right{-webkit-flex-basis:15px;flex-basis:15px}@media screen and (max-width:992px){.profile-edit p{font-size:11.9994px}}@media screen and (min-width:992px){.profile-edit p{font-size:14px}}.profile-edit .i-star{vertical-align:top;display:inline-block}@media screen and (max-width:992px){.my-promo p{font-size:11.9994px}}@media screen and (min-width:992px){.my-promo p{font-size:14px}}.my-promo p.lbl{color:#8ea9eb;margin-bottom:.2em}.mobile .switch input:checked+.slider{background-color:#cc001b}.mobile #btn-reset2ndpin{margin-left:0;margin-top:10px}.app-info>div{padding:15px}@media screen and (max-width:992px){.app-info>div{height:auto}}@media screen and (min-width:992px){.app-info>div{height:320px}}.app-info a{color:#8ea9eb}.app-info .promo-title{font-size:6rem;color:#30b13a;font-weight:700;text-transform:uppercase;line-height:1;letter-spacing:0;display:inline-block;-webkit-transform:scaleX(1.5);transform:scaleX(1.5)}.app-info .promo-title span{position:relative}.app-info .promo-title span:after{position:absolute;top:1.55em;right:.45em;font-size:.3em;content:'%';color:#30b13a;z-index:50;display:inline-block;-webkit-transform:scale(.6,1.4);transform:scale(.6,1.4)}.app-info .fs-md{font-weight:500;text-transform:uppercase}.app-info .progressNumber{font-weight:500;font-size:42.728px}.app-info .row.center{-webkit-align-items:center;align-items:center}.app-info .pointer i{color:#30b13a}@media screen and (max-width:992px){.app-info .i-stop{font-size:8.96px}}@media screen and (min-width:992px){.app-info .i-stop{font-size:inherit}}.app-info .sub-title{color:#c98000}.app-info .carousel-fixed-height>div{padding-bottom:20px}@media screen and (max-width:992px){.app-info .carousel-fixed-height>div{height:auto}}@media screen and (min-width:992px){.app-info .carousel-fixed-height>div{height:100%}}.app-info .carousel-fixed-height>div .carousel-indicators{bottom:0}.app-info .carousel-fixed-height>div .carousel-inner{min-height:80px}.app-info .carousel-fixed-height>div#pagination-info .carousel-indicators{bottom:0}.app-info .mobile-border .title{text-transform:uppercase}.m-t-10{margin-top:10px;margin-bottom:10px}.mobile .time-remaining-wraper{display:none}.info .container-box .title{padding:.7em 1.2em}.info .info-nav.nav-icon{padding-top:30px;padding-bottom:30px;text-align:center}.info .info-nav.nav-icon a{text-decoration:none;transition:all .4s ease;display:inline-block;color:#fff;background-color:#0e1c2a;padding:7px;border-radius:50%;width:8.5em;height:8.5em;display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center;margin:0 auto;line-height:normal}@media screen and (max-width:992px){.info .info-nav.nav-icon a{font-size:8.96px}}@media screen and (min-width:992px){.info .info-nav.nav-icon a{font-size:14px}}.info .info-nav.nav-icon a i{font-size:35px}@media screen and (max-width:992px){.info .info-nav.nav-icon a i{font-size:25px}}@media screen and (min-width:992px){.info .info-nav.nav-icon a i{font-size:35px}}.info .info-nav.nav-icon a div{margin-bottom:.1rem}.info .info-nav.nav-icon a.active,.info .info-nav.nav-icon a:hover{color:#30b13a}.info .info.panel{border:0}.info .info.panel-default{border-color:#424242;border-radius:5px}.info .info.panel-heading{background:#424242}.info .info.panel-heading:hover{background:#333;cursor:pointer}.info .panel-title.info{margin-bottom:.5rem;font-weight:500;line-height:1.2;color:#fdc54c;position:relative;font-size:1.09375rem}.info .panel-title.info:after{content:'+';top:-2px;right:0;position:absolute;font-size:30px;color:#fff}.info .info.panel-heading[aria-expanded=true] .panel-title.info:after{content:'-'}.info .info.panel-body{background-color:#030b30;color:#fff;display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;overflow:visible;padding:0 24px 16px;border:0}.navbar-fixed-bottom .mail_icon,.side-bar-content .mail_icon{position:absolute;top:.3em;color:#fff;font-size:10px;right:.7em;width:1.6em;height:1.6em;line-height:1em;border-radius:50%;-webkit-animation:blinking 1.2s linear .5s infinite;animation:blinking 1.2s linear .5s infinite;background-color:#ed1c24;text-align:center;padding:.2em}.navbar-fixed-bottom .mail_icon{right:15px}.text-center-sm{text-align:center}#regbank_popup__depo{top:50%}.top-bar button.open:before,.yes.open:before{content:"";position:fixed;top:-47px;left:0;height:auto;bottom:-150%;right:0;width:100%;z-index:1000;padding:15px;background:rgba(38,56,77,.8);cursor:auto}.example1{height:50px;overflow:hidden;position:relative;width:100%}.example1 h3{font-size:14px;color:#fff;position:absolute;width:100%;height:100%;margin:0;line-height:50px;text-align:center;-moz-transform:translateX(100%);-webkit-transform:translateX(100%);transform:translateX(100%);-moz-animation:example1 18s linear infinite;-webkit-animation:example1 18s linear infinite;animation:example1 18s linear infinite}@-moz-keyframes example1{0%{-moz-transform:translateX(100%)}100%{-moz-transform:translateX(-100%)}}@-webkit-keyframes example1{0%{-webkit-transform:translateX(100%)}100%{-webkit-transform:translateX(-100%)}}@keyframes example1{0%{-moz-transform:translateX(100%);-webkit-transform:translateX(100%);transform:translateX(100%)}100%{-moz-transform:translateX(-100%);-webkit-transform:translateX(-100%);transform:translateX(-100%)}}#r-side-bar{height:100%;position:fixed;z-index:1030;top:0;right:0;overflow-x:hidden;width:0;background-color:#0e1c2a;transition:.3s}#r-side-bar.open{width:20rem}@media (min-width:768px){#r-side-bar.open{width:40rem}}#r-side-bar .side-bar-content{height:100%;width:90%;z-index:4;overflow-x:hidden;margin-top:30px}#r-side-bar .modal-title{font-weight:600}#r-side-bar .modal-footer{border-top:1px solid rgba(38,56,77,.3)}#r-side-bar .modal-header{border-bottom:1px solid rgba(38,56,77,.3)}@media (min-width:768px){#r-side-bar .profile-head .container{width:100%}}#r-side-bar .footer-content{text-align:left;width:100%}#r-side-bar a{font-weight:900;position:relative}#r-side-bar .side-bar-content input{height:56px}span.circle img{border-radius:100px}.nav-content span.circle{align-items:center;justify-content:center;border-radius:50%;padding:.25em .25em;background:#30b13a;display:inline-flex;width:45px;height:45px}
+    </style>
+    <title> Yosi88 | Link Login ASL1 T3RPERCAYA </title>
+    <meta name="description"
+        content="Yosi88 adalah situs slot online paling gacor tahun 2023 yang menyediakan game dari Pragmatic Play, PG Soft dan menerima slot deposit pulsa tanpa potongan.">
+    <meta name="keywords"
+        content="Yosi88, login Yosi88, Yosi 88, link alternatif Yosi88, daftar Yosi88.">
+    <meta name="twitter:title" content=" Yosi88 | Link Login ASL1 T3RPERCAYA ">
+    <meta name="twitter:description"
+        content="Yosi88 adalah situs slot online paling gacor tahun 2023 yang menyediakan game dari Pragmatic Play, PG Soft dan menerima slot deposit pulsa tanpa potongan.">
+    <meta property="og:title" content=" Yosi88 | Link Login ASL1 T3RPERCAYA ">
+    <meta property="og:description"
+        content="Yosi88 adalah situs slot online paling gacor tahun 2023 yang menyediakan game dari Pragmatic Play, PG Soft dan menerima slot deposit pulsa tanpa potongan.">
+    <meta name="robots" content="INDEX, FOLLOW">
+    <meta name="Content-Type" content="text/html">
+    <meta name="twitter:card" content="summary">
+    <meta name="og:type" content="website">
+    <meta name="author" content="Yosi88">
+    <meta property="og:image" content="https://88majuterus.art/uploads/faviconyosi88.png">
+    <meta property="og:site_name" content="Yosi88">
+    <meta name="twitter:site" content="Yosi88">
+    <meta name="twitter:image" content="https://88majuterus.art/uploads/faviconyosi88.png">
+    <meta property="og:image:alt" content="Yosi88">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta property="og:url" content="https://ampyosi.xyz/">
+    <link rel="canonical" href="https://ampyosi.xyz/" />
+    <link rel="icon" href="https://88majuterus.art/uploads/faviconyosi88.png">
+    <link rel="preload" href="images/fonts/icomoon.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+</head>
+
+<body class="mobile" data-new-gr-c-s-check-loaded="14.1040.0" data-gr-ext-installed="">
+    <div class="full-container layout">
+        <div id="sideNav" class="side-nav" [class]="visible ? 'side-nav open' : 'side-nav'">
+            <nav class="nav-content">
+                <ul class="side-nav-items">
+                    <li class="nav-item"><a class="navlink" href="https://yosi88bd.pro/cair">
+                            <div>
+                                <amp-img width="30" height="30" src="https://iili.io/dHVwUap.png" alt="Homepage">
+                                </amp-img>
+                            </div>
+                            <div class="nav-title">HOME</div>
+                        </a></li>
+                    <li class="nav-item"><a class="navlink" href="https://yosi88bd.pro/cair">
+                            <div>
+                                <amp-img width="30" height="30" src="https://iili.io/dHVwLns.png" alt="Game Slot">
+                                </amp-img>
+                            </div>
+                            <div class="nav-title">PERMAINAN</div>
+                        </button>
+                        <div class="nav-item-content games open">
+                            <ul class="submenu">
+                                <li><a href="https://yosi88bd.pro/cair">
+                                        <div class=""><span class="circle">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVNzDF.png" alt="Slot Online">
+                                                </amp-img>
+                                            </span><span class="hot sub">HOT</span></div>
+                                        <div class="fs-sm mt-1">SLOTS</div>
+                                    </a></li>
+                                <li><a href="https://yosi88bd.pro/cair">
+                                        <div class=""><span class="circle">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVNNJ2.png"
+                                                    alt="Sportsbook">
+                                                </amp-img>
+                                            </span></div>
+                                        <div class="fs-sm mt-1">SPORTS</div>
+                                    </a></li>
+                                <li><a href="https://yosi88bd.pro/cair">
+                                        <div class=""><span class="circle">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVN1DX.png"
+                                                    alt="Casino Online">
+                                                </amp-img>
+                                            </span></div>
+                                        <div class="fs-sm mt-1">CASINO</div>
+                                    </a></li>
+                                <li><a href="https://yosi88bd.pro/cair">
+                                        <div class=""><span class="circle">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVNQb1.png"
+                                                    alt="Poker Online Yosi88">
+                                                </amp-img>
+                                            </span></div>
+                                        <div class="fs-sm mt-1">P2P</div>
+                                    </a></li>
+                                <li><a href="https://yosi88bd.pro/cair">
+                                        <div class=""><span class="circle">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVOn1f.png"
+                                                    alt="Judi Online Yosi88">
+                                                </amp-img>
+                                            </span></div>
+                                        <div class="fs-sm mt-1">OTHERS</div>
+                                    </a></li>
+                                <li><a href="https://yosi88bd.pro/cair">
+                                        <div class=""><span class="circle">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVOog4.png"
+                                                    alt="Togel Online Yosi88">
+                                                </amp-img>
+                                            </span><span class="hot sub new">NEW</span></div>
+                                        <div class="fs-sm mt-1">LOTRE</div>
+                                    </a></li>
+                                <li><a href="https://yosi88bd.pro/cair">
+                                        <div class=""><span class="circle">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVOaqb.png"
+                                                    alt="Tembak Ikan Yosi88">
+                                                </amp-img>
+                                            </span></div>
+                                        <div class="fs-sm mt-1">TEMBAK IKAN</div>
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item"><a class="navlink" href="https://yosi88bd.pro/cair">
+                            <div>
+                                <amp-img width="30" height="30" src="https://iili.io/dHVwLns.png"
+                                    alt="Promo Yosi88"></amp-img>
+                            </div>
+                            <div class="nav-title">PROMOSI</div>
+                        </a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="main-content" id="mainContent">
+            <div class="backdrop" id="mainContentContainer">
+                <div class="top-bar">
+                    <div class="inner-header flex-row" style="box-shadow: 0px 3px rgba(92, 68, 1, 0.5);"><button
+                            [class]="visible ? 'btn btn-link open' : 'btn btn-link'"
+                            on="tap:AMP.setState({visible: !visible})" id="btnToggleSideNav" class="btn btn-link">
+                            <amp-img width="30" height="30" src="https://iili.io/dHVeww7.png" alt="Menu"></amp-img>
+                        </button> <a href="https://yosi88bd.pro/cair" title="Yosi88" class="logo">
+                            <div>
+                                <amp-img width="171" height="44" class="img-fluid" alt="Slot Online Yosi88"
+                                    src="https://88majuterus.art/uploads/yosi88logo.png"></amp-img>
+                            </div>
+                        </a><button id="btnToggleRSideNav" style="background: transparent;border: 0;" class="yes"
+                            [class]="yes ? 'yes open' : 'yes'" on="tap:AMP.setState({yes: !yes})">
+                            <amp-img width="30" height="30" src="https://iili.io/dHVknHl.png" alt="Menu Profile">
+                            </amp-img>
+                        </button></div>
+                </div>
+                <div class="content my01">
+                    <section class="carousel-fixed-height">
+                        <div id="carousel-fixed-height" class="carousel slide" data-ride="carousel">
+                            <amp-selector id="featuredSlider" aria-label="featuredSlider" class="carousel-preview"
+                                on="select:ffSlider.goToSlide(index=event.targetOption)" layout="container">
+                                <ol class="carousel-indicators">
+                                    <li selected option="0" data-target="#carousel-fixed-height" data-slide-to="0"></li>
+                                    <li option="1" data-target="#carousel-fixed-height" data-slide-to="1"></li>
+                                    <li option="2" data-target="#carousel-fixed-height" data-slide-to="2"></li>
+                                    <li option="3" data-target="#carousel-fixed-height" data-slide-to="3"></li>
+                                    <li option="4" data-target="#carousel-fixed-height" data-slide-to="4"></li>
+                                    <li option="5" data-target="#carousel-fixed-height" data-slide-to="5"></li>
+                                    <li option="6" data-target="#carousel-fixed-height" data-slide-to="6"></li>
+                                </ol>
+                            </amp-selector>
+                            <div class="carousel-inner" role="listbox" aria-label="carousel-inner">
+                                <amp-carousel id="ffSlider" width="1663" height="600" layout="responsive"
+                                    layout="responsive" autoplay autoplay delay="3000" controls layout="responsive"
+                                    type="slides" role="region" aria-label="type='slides' carousel"
+                                    on="slideChange:featuredSlider.toggle(index=event.index, value=true)">
+                                    <div class="item">
+                                        <amp-img width="1663" height="600" layout="responsive" class="slider-size"
+                                            src="https://88majuterus.art/uploads/bannerbesaryosi.png"
+                                            style="display:block;width:100%;max-height:500px;min-height:130px"
+                                            alt="Promo Slot Online"></amp-img>
+                                    </div>
+                                </amp-carousel>
+                            </div><a class="left carousel-control" href="https://yosi88bd.pro/cair"
+                                role="button" data-slide="prev"><i class="icon-chevron-left icon-prev"></i> <span
+                                    class="sr-only">Previous</span> </a><a class="right carousel-control"
+                                href="https://yosi88bd.pro/cair" role="button" data-slide="next"><i
+                                    class="icon-arrow_forward_ios icon-next"></i> <span class="sr-only">Next</span></a>
+                        </div>
+                    </section>
+                    <div class="btns-log row no-gutters">
+                        <div class="col-xs-6"><a class="btn btn-tertiery btn-block"
+                                href="https://yosi88bd.pro/cair">LOGIN</a></div>
+                        <div class="col-xs-6"><a class="btn btn-accent btn-block"
+                                href="https://yosi88bd.pro/cair">DAFTAR</a></div>
+                    </div>
+                    <div class="scroll-wrapper carr no-gutters">
+                        <div class="left"><span class="prev-btn btn" id="left-button"><i
+                                    class="icon-keyboard_arrow_left"></i></span></div>
+                        <div style="overflow:hidden" class="scroller">
+                            <div class="no-gutters text-center slider-content">
+                                <div class="col"><a class="btn-box" href="https://yosi88bd.pro/cair">
+                                        <amp-img width="40" height="35" src="https://iili.io/dHVNzDF.png"
+                                            alt="Slot Online Yosi88"></amp-img>
+                                        <div>SLOT ONLINE</div><span class="hot">HOT</span>
+                                    </a></div>
+                                <div class="col"><a class="btn-box" href="https://yosi88bd.pro/cair">
+                                        <amp-img width="40" height="35" src="https://iili.io/dHVNNJ2.png"
+                                            alt="Sportsbook Yosi88"></amp-img>
+                                        <div>SPORTSBOOK</div>
+                                    </a></div>
+                                <div class="col"><a class="btn-box" href="https://yosi88bd.pro/cair">
+                                        <amp-img width="40" height="35" src="https://iili.io/dHVN1DX.png"
+                                            alt="Live Casino Online Yosi88"></amp-img>
+                                        <div>CASINO</div>
+                                    </a></div>
+                                <div class="col"><a class="btn-box" href="https://yosi88bd.pro/cair">
+                                        <amp-img width="40" height="35" src="https://iili.io/dHVNQb1.png"
+                                            alt="Poker Online Yosi88"></amp-img>
+                                        <div>POKER</div>
+                                    </a></div>
+                                <div class="col"><a class="btn-box" href="https://yosi88bd.pro/cair">
+                                        <amp-img width="40" height="35" src="https://iili.io/dHVOn1f.png"
+                                            alt="Judi Online Yosi88"></amp-img>
+                                        <div>OTHERS</div>
+                                    </a></div>
+                                <div class="col"><a class="btn-box" href="https://yosi88bd.pro/cair">
+                                        <amp-img width="40" height="35" src="https://iili.io/dHVOog4.png"
+                                            alt="Togel Online Yosi88"></amp-img>
+                                        <div>LOTRE</div><span class="hot new">NEW</span>
+                                    </a></div>
+                                <div class="col"><a class="btn-box" href="https://yosi88bd.pro/cair">
+                                        <amp-img width="40" height="35" src="https://iili.io/dHVOaqb.png"
+                                            alt="Tembak Ikan Yosi88"></amp-img>
+                                        <div>TEMBAK IKAN</div>
+                                    </a></div>
+                            </div>
+                        </div>
+                        <div class="right"><span class="next-btn btn" id="right-button"><i
+                                    class="icon-keyboard_arrow_right"></i></span></div>
+                    </div>
+                    <div class="container"
+                        style="background: linear-gradient(180deg,#088107 0,#088107 21%,#088107 32%,#088107 38%,#088107 69%,#088107 83%,#088107);">
+                        <div class="ann-wrapper">
+                            <div class="clearfix pt-2">
+                                <div class="pull-left pointer">
+                                    <div>
+                                        <amp-img style="margin-top:13px" width="30" height="25" src="images/speaker.png"
+                                            alt="Pengumunan Yosi88"></amp-img>
+                                    </div>
+                                </div>
+                                <div class="ann-content">
+                                    <div class="example1">
+                                        <h3 style="font-style:italic;color:black;font-weight:bold;">Selamat Datang Di Yosi88 Situs Slot Gacor Anti Lag & Anti Rungkad</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="app-wrapper container">
+                        <div class="mobile-border"></div>
+                        <div class="row">
+                            <div class="gListSection">
+                                <div class="g-slider-wrapper">
+                                    <h4 class="title">GAME TERPOPULAR</h4>
+                                    <ul>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online 5 Lions Gold Yosi88"
+                                                    src="https://iili.io/dHMPgnV.webp"
+                                                    data-src="https://iili.io/dHMPgnV.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">5 Loins Gold</div>
+                                            </div>
+                                        </li>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online Starlight Princess Yosi88"
+                                                    src="https://iili.io/dHMiBol.webp"
+                                                    data-src="https://iili.io/dHMiBol.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Starlight Princess</div>
+                                            </div>
+                                        </li>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online Hot Hot Fruit Yosi88"
+                                                    src="https://iili.io/dHMiYoQ.webp"
+                                                    data-src="https://iili.io/dHMiYoQ.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Hot Hot Fruit</div>
+                                            </div>
+                                        </li>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online Thundering Zeus Yosi88"
+                                                    src="https://iili.io/dHMiSJn.webp"
+                                                    data-src="https://iili.io/dHMiSJn.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Thundering Zeus</div>
+                                            </div>
+                                        </li>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Roma Yosi88" src="https://iili.io/dHMib5u.webp"
+                                                    data-src="https://iili.io/dHMib5u.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Slot Roma</div>
+                                            </div>
+                                        </li>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Break da Bank Yosi88"
+                                                    src="https://iili.io/dHMsJsV.webp"
+                                                    data-src="https://iili.io/dHMsJsV.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Break da Bank</div>
+                                            </div>
+                                        </li>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot online Disco Double Yosi88"
+                                                    src="https://iili.io/dHMs1Ll.webp"
+                                                    data-src="https://iili.io/dHMs1Ll.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Disco Double</div>
+                                            </div>
+                                        </li>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Lunar Legends Yosi88"
+                                                    src="https://iili.io/dHMsr21.webp"
+                                                    data-src="https://iili.io/dHMsr21.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Lunar Legends</div>
+                                            </div>
+                                        </li>
+                                        <li style="margin-top:5px;margin-left:5px">
+                                            <div class="game-box login-alert">
+                                                <div class="hot-game-tag"></div>
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Mahjong Ways 2 Yosi88"
+                                                    src="https://iili.io/dHWAfwP.webp"
+                                                    data-src="https://iili.io/dHWAfwP.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Mahjong Ways 2</div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="mobile-border"></div>
+                                <div class="g-slider-wrapper">
+                                    <h4 class="title">Slot Online</h4>
+                                    <ul>
+                                        <li>
+                                        <li class="game-box">
+                                            <amp-img width="83" height="83" class="lazyloaded"
+                                                alt="Slot Online Pragmatic Play Yosi88"
+                                                src="https://iili.io/dHVxCyF.webp"
+                                                data-src="https://iili.io/dHVxCyF.webp"></amp-img>
+                                            <div class="loader-b" style="display:none"></div>
+                                            <div class="text-center game-title">Pragmatic Play</div>
+                                        </li>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online Joker Yosi88" src="https://iili.io/dHVx53N.webp"
+                                                    data-src="https://iili.io/dHVx53N.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Joker</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Pulsa Spade Gaming Yosi88"
+                                                    src="https://iili.io/dHVxGnf.webp"
+                                                    data-src="https://iili.io/dHVxGnf.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Spade Gaming</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online Habanero Yosi88" src="https://iili.io/dHVxj87.webp"
+                                                    data-src="https://iili.io/dHVxj87.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Habanero</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Isoftbet Yosi88" src="https://iili.io/dHVxU6Q.webp"
+                                                    data-src="https://iili.io/dHVxU6Q.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Isoftbet</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online PLAY N GO Yosi88" src="https://iili.io/dHVx68P.webp"
+                                                    data-src="https://iili.io/dHVx68P.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">PLAY N GO</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online Gameplay Yosi88" src="https://iili.io/dHVz5Vj.webp"
+                                                    data-src="https://iili.io/dHVz5Vj.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Gameplay</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online CQ9 Yosi88" src="https://iili.io/dHVzER1.webp"
+                                                    data-src="https://iili.io/dHVzER1.webp">
+                                                </amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">CQ9</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Slot Online YGG Drasil Yosi88" src="https://iili.io/dHVzhiv.webp"
+                                                    data-src="https://iili.io/dHVzhiv.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">YGG Drasil</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Mircogaming Yosi88"
+                                                    src="https://iili.io/dHVz8OX.webp"
+                                                    data-src="https://iili.io/dHVz8OX.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Mircogaming</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online TTG Yosi88" src="https://iili.io/dHVTTCb.webp"
+                                                    data-src="https://iili.io/dHVTTCb.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">TTG</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Playson Yosi88" src="https://iili.io/dHVucl4.webp"
+                                                    data-src="https://iili.io/dHVucl4.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Playson</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Booming Yosi88" src="https://iili.io/dHVurWg.webp"
+                                                    data-src="https://iili.io/dHVurWg.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Booming</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online PGSOFT Yosi88" src="https://iili.io/dHVui0v.webp"
+                                                    data-src="https://iili.io/dHVui0v.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">PGSOFT</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Playtech Yosi88" src="https://iili.io/dHVAdg4.webp"
+                                                    data-src="https://iili.io/dHVAdg4.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Playtech</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Slot Online Skywind Yosi88" src="https://iili.io/dHVAfm7.webp"
+                                                    data-src="https://iili.io/dHVAfm7.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Skywind</div>
+                                            </div>
+                                        </li>
+                                        <li></li>
+                                    </ul>
+                                </div>
+                                <div class="mobile-border"></div>
+                                <div class="g-slider-wrapper">
+                                    <h4 class="title">Bandar Bola</h4>
+                                    <ul>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Agen Bola Saba Sports Yosi88" src="https://iili.io/dHVAErv.webp"
+                                                    data-src="https://iili.io/dHVAErv.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Saba Sports</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Agen Bola Sbobet Yosi88" src="https://iili.io/dHVAV7p.webp"
+                                                    data-src="https://iili.io/dHVAV7p.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Sbobet</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Judi Bola BTI Sports Yosi88" src="https://iili.io/dHVAjIt.webp"
+                                                    data-src="https://iili.io/dHVAjIt.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">BTI Sports</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Judi Bola United Gaming Yosi88"
+                                                    src="https://iili.io/dHVAkEG.webp"
+                                                    data-src="https://iili.io/dHVAkEG.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">United Gaming</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Judi Bola CMD Sports Yosi88" src="https://iili.io/dHVAv4f.webp"
+                                                    data-src="https://iili.io/dHVAv4f.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">CMD Sports</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Bandar Judi Virtual Sport Yosi88"
+                                                    src="https://iili.io/dHVAUYl.webp"
+                                                    data-src="https://iili.io/dHVAUYl.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Virtual Sport</div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="mobile-border"></div>
+                                <div class="g-slider-wrapper">
+                                    <h4 class="title">Casino Online</h4>
+                                    <ul>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Casino Online Pragmatic Play Yosi88"
+                                                    src="https://iili.io/dHVAiQe.webp"
+                                                    data-src="https://iili.io/dHVAiQe.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Pragmatic Play</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Casino Online ALLBET Yosi88" src="https://iili.io/dHVALCu.webp"
+                                                    data-src="https://iili.io/dHVALCu.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">ALLBET</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Casino Online Microgaming Yosi88"
+                                                    src="https://iili.io/dHVAmvV.webp"
+                                                    data-src="https://iili.io/dHVAmvV.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Microgaming</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Casino Online EVO Yosi88" src="https://iili.io/dHVR3Ga.webp"
+                                                    data-src="https://iili.io/dHVR3Ga.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">EVO</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Casino Online Playtech Yosi88"
+                                                    src="https://iili.io/dHVRCyN.webp"
+                                                    data-src="https://iili.io/dHVRCyN.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Playtech</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Casino Online SA Yosi88" src="https://iili.io/dHVRxjt.webp"
+                                                    data-src="https://iili.io/dHVRxjt.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">SA</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Casino Online Gameplay Yosi88" src="https://iili.io/dHVRA6G.webp"
+                                                    data-src="https://iili.io/dHVRA6G.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Gameplay</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Casino Online AE Yosi88" src="https://iili.io/dHVRc92.webp"
+                                                    data-src="https://iili.io/dHVRc92.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">AE</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Casino Online N2LIVE Yosi88"
+                                                    src="https://iili.io/dHV5Wxt.webp"
+                                                    data-src="https://iili.io/dHV5Wxt.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">N2LIVE</div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="mobile-border"></div>
+                                <div class="g-slider-wrapper">
+                                    <h4 class="title">P2P Poker Online</h4>
+                                    <ul>
+                                        <li>
+                                            <div class="game-box maintenance-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Judi Poker Online Yosi88" src="https://iili.io/dHV5Ogf.webp"
+                                                    data-src="https://iili.io/dHV5Ogf.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Texas Poker Online</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box maintenance-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded" alt="Omaha Yosi88"
+                                                    src="https://iili.io/dHV5Pqu.webp" data-src="https://iili.io/dHV5Pqu.webp">
+                                                </amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Poker Dealer</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box maintenance-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Ceme Keliling Yosi88" src="https://iili.io/dHVYHjS.webp"
+                                                    data-src="https://iili.io/dHVYHjS.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Ceme Keliling</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box maintenance-alert">
+                                                <amp-img width="83" height="83" class="lazyloaded"
+                                                    alt="Judi Ceme Yosi88" src="https://iili.io/dHV7A74.webp"
+                                                    data-src="https://iili.io/dHV7A74.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Ceme Adu</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box maintenance-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="QQ Online Yosi88" src="https://iili.io/dHVYB8x.webp"
+                                                    data-src="https://iili.io/dHVYB8x.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">QQ Online</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box maintenance-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Capsa Bandar Yosi88" src="https://iili.io/dHV0tkJ.webp"
+                                                    data-src="https://iili.io/dHV0tkJ.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Capsa Bandar</div>
+                                            </div>
+                                        </li>
+                                        <li></li>
+                                        <li></li>
+                                        <li>
+                                            <div class="game-box maintenance-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Judi Sakong Yosi88" src="https://iili.io/dHVGI5u.webp"
+                                                    data-src="https://iili.io/dHVGI5u.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Sakong</div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="mobile-border"></div>
+                                <div class="g-slider-wrapper">
+                                    <h4 class="title">Others</h4>
+                                    <ul>
+                                        <li class="game-box">
+                                            <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                alt="Sabung Ayam Yosi88" src="https://iili.io/dHVGaqB.webp"
+                                                data-src="https://iili.io/dHVGaqB.webp"></amp-img>
+                                            <div class="loader-b" style="display:none"></div>
+                                            <div class="text-center game-title">Sabung Ayam</div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="mobile-border"></div>
+                                <div class="g-slider-wrapper">
+                                    <h4 class="title">Togel Online</h4>
+                                    <ul>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Judi Togel Online Yosi88"
+                                                    src="https://iili.io/dHVGwqN.webp"
+                                                    data-src="https://iili.io/dHVGwqN.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Togel Online</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Judi Racing Car Yosi88" src="https://iili.io/dHVGSmG.webp"
+                                                    data-src="https://iili.io/dHVGSmG.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Racing Car</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="game-box login-alert">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Number Games Yosi88" src="https://iili.io/dHVGDmb.webp"
+                                                    data-src="https://iili.io/dHVGDmb.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Number Games</div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="mobile-border"></div>
+                                <div class="g-slider-wrapper">
+                                    <h4 class="title">Tembak Ikan</h4>
+                                    <ul>
+                                        <li><a href="https://yosi88bd.pro/cair" class="game-box">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Tembak Ikan Joker Yosi88"
+                                                    src="https://iili.io/dHVMJEB.webp"
+                                                    data-src="https://iili.io/dHVMJEB.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Tembak Ikan Joker123</div>
+                                            </a></li>
+                                        <li><a href="https://yosi88bd.pro/cair" class="game-box">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Tembak Ikan Spadegaming Yosi88"
+                                                    src="https://iili.io/dHVMFYF.webp"
+                                                    data-src="https://iili.io/dHVMFYF.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Tembak Ikan Spadegaming</div>
+                                            </a></li>
+                                        <li><a href="https://yosi88bd.pro/cair" class="game-box">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Tembak Ikan Habanero Yosi88"
+                                                    src="https://iili.io/dHVMBTJ.webp"
+                                                    data-src="https://iili.io/dHVMBTJ.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Tembak Ikan Habanero</div>
+                                            </a></li>
+                                        <li><a href="https://yosi88bd.pro/cair" class="game-box">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Tembak Ikan CQ9 Yosi88" src="https://iili.io/dHVMiZv.webp"
+                                                    data-src="https://iili.io/dHVMiZv.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Tembak Ikan CQ9</div>
+                                            </a></li>
+                                        <li><a href="https://yosi88bd.pro/cair" class="game-box">
+                                                <amp-img width="83" height="83" class="ls-is-cached lazyloaded"
+                                                    alt="Tembak Ikan Skywind Yosi88"
+                                                    src="https://iili.io/dHVMDFI.webp"
+                                                    data-src="https://iili.io/dHVMDFI.webp"></amp-img>
+                                                <div class="loader-b" style="display:none"></div>
+                                                <div class="text-center game-title">Tembak Ikan Skywind</div>
+                                            </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="app-info row">
+                            <div class="col-md-6 col-lg-4 col-xs-12 gradient-border mobile-border">
+      <h4 class="title"  >KELEBIHAN LAYANAN</h4>
+      <div class="ml-md-2 mt-2 ">
+        <div class="row center no-gutters">
+          <div class="col-xs-8">
+            <div class="fs-md">DEPOSIT</div>
+            <div  >Waktu rata-rata</div>
+          </div>
+          <div class="col-xs-4 text-right">
+            <div class="mb-0 progressNumber">1<span class="fs-sm">Mins</span></div>
+          </div>
+          <div class="col-xs-12">
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 1%" aria-valuenow="1" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row mt-3 center no-gutters">
+          <div class="col-xs-8">
+            <div class="fs-md">WITHDRAW</div>
+            <div  >Waktu rata-rata</div>
+          </div>
+          <div class="col-xs-4 text-right">
+            <div class="mb-0 progressNumber">3<span class="fs-sm">Mins</span></div>
+          </div>
+          <div class="col-xs-12">
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 3%" aria-valuenow="3" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+        </div>
+        <p class="mt-3 fs-sm"  >
+          *Referensi Waktu Rata-rata tidak berlaku jika bank offline, gangguan koneksi, dan informasi yang tidak lengkap disediakan        </p>
+      </div>
+    </div>
+    <div class="col-md-6 col-lg-4 col-xs-12 gradient-border mobile-border">
+      <h4 class="title"  >JENIS PERMAINAN</h4>
+      
+      <amp-carousel id="custom-button" width="500" height="410" layout="responsive" type="slides" autoplay delay="3000" role="region" aria-label="Carousel with arbitrary HTML content">
+    <div class="item active">
+    
+    <div class="d-block mb-3 pointer text-left">
+      <div class="mb-0 font-weight-bold">1G POKER</div>
+      <div style="white-space: normal;">Tuan rumah hingga 10 game P2P luar biasa dengan pemain sungguhan dan tanpa bot. </div>
+    </div>
+    
+    <div class="d-block mb-3 pointer text-left">
+      <div class="mb-0 font-weight-bold">TEMBAK IKAN</div>
+      <div style="white-space: normal;">Game memancing yang sangat sederhana namun mengasyikkan, petualangan dengan banyak fitur yang akan dinikmati banyak orang. </div>
+    </div>
+    
+    <div class="d-block mb-3 pointer text-left">
+      <div class="mb-0 font-weight-bold">SLOTS</div>
+      <div style="white-space: normal;">Lebih dari 10 merek slot terkenal untuk dipilih dengan lebih dari 1000+ permainan slot dengan sistem suara dan grafik yang realistis. </div>
+    </div>
+    
+  </div>
+    <div class="item">
+    
+    <div class="d-block mb-3 pointer text-left">
+      <div class="mb-0 font-weight-bold">SPORTSBOOK</div>
+      <div style="white-space: normal;">Ribuan peluang setiap hari untuk semua jenis taruhan olahraga di seluruh dunia. </div>
+    </div>
+    
+    <div class="d-block mb-3 pointer text-left">
+      <div class="mb-0 font-weight-bold">RNG</div>
+      <div style="white-space: normal;">Menangkan lebih banyak dengan bertaruh dengan lebih banyak pilihan nomor di keno klasik dan pamungkas kami! </div>
+    </div>
+    
+    <div class="d-block mb-3 pointer text-left">
+      <div class="mb-0 font-weight-bold">LIVE CASINO</div>
+      <div style="white-space: normal;">Rasakan pengalaman dan sensasi bermain seperti kasino yang sebenarnya </div>
+    </div>
+    
+  </div>
+  </amp-carousel>
+    </div>
+    <div class="col-md-6 col-lg-4 col-xs-12 gradient-border mobile-border">
+ 
+      <h4 class="title"  >PUSAT INFO</h4> 
+      <div class="ml-md-3 mt-md-4"> 
+                        <div class="pointer mb-md-4 mb-3"><a  class="flex"  href="https://yosi88bd.pro/cair"><i class="i-stop icon-stop2"></i>   <div>Cara Bermain SportsBook</div>  </a></div>
+        <div class="pointer mb-md-4 mb-3"><a class="flex" href="https://yosi88bd.pro/cair"><i class="i-stop icon-stop2"></i>   <div>Cara Melakukan Deposit</div>  </a></div>
+        <div class="pointer "><a class="flex" href="https://yosi88bd.pro/cair"><i class="i-stop icon-stop2"></i>   <div>Cara Melakukan Withdraw</div>  </a></div>
+              </div>
+                    <div class="container">
+                        <div class="text-left footerlink mt-4">
+                            <div class="small">White Label</div>
+                            <div class="mt-2 footer_btm_logo_img">
+                                <amp-img width="208" height="50" class="footer_logimg" style="max-height:50px"
+                                    alt="White Label UG" src="https://files.sitestatic.net/ImageFile/642ab3f1d5094_641c2b9fde3f1_LOGO-GIF-ANIMASI-YOSI88.webp"></amp-img>
+                            </div>
+                        </div>
+                        <div class="text-left footerlink mt-2">
+                            <h6>Metode Transaksi</h6>
+                            <div class="payment_imgs mt-2">
+                                <amp-img width="148" height="52" class="img-fluid mb-3"
+                                    style="width:150px;border-radius:10px;border:1px solid currentColor"
+                                    src="https://files.sitestatic.net/sprites/bank_logos/bank_col.jpg" alt="Bank Yosi88"></amp-img>
+                                <amp-img width="148" height="52" class="img-fluid mb-3"
+                                    style="width:150px;border-radius:10px;border:1px solid currentColor"
+                                    src="https://files.sitestatic.net/sprites/bank_logos/ewallet_col.jpg" alt="E-wallet Yosi88"></amp-img>
+                                <amp-img width="148" height="52" class="img-fluid mb-3"
+                                    style="width:150px;border-radius:10px;border:1px solid currentColor"
+                                    src="https://files.sitestatic.net/sprites/bank_logos/pulsa_col.jpg" alt="Deposit Pulsa Yosi88"></amp-img>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container mt-3">
+                        <div class="menu-bottom">
+                            <nav class="navbar-inverse navbar-fixed-bottom">
+                                <div class="">
+                                    <div class="flex-row text-center"
+                                        style="padding:1px;align-items: center;box-shadow: 0px -4px 3px rgba(92, 68, 1, 0.5);">
+                                        <div class="footericon-single"><a href="https://yosi88bd.pro/cair">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVwUap.png" alt="Beranda">
+                                                </amp-img>
+                                                <div>BERANDA</div>
+                                            </a></div>
+                                        <div class="footericon-single"><a href="https://yosi88bd.pro/cair">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVwLns.png"
+                                                    alt="Promo Yosi88">
+                                                </amp-img>
+                                                <div>PROMO</div>
+                                            </a></div>
+                                        <div class="footericon-single" style="position:relative"><a
+                                                href="https://direct.lc.chat/15315846/" rel="nofollow"
+                                                class="text-uppercase togglemenu-trigger"
+                                                data-showid="#livechathover_menu">
+                                                <amp-img width="26" height="26" src="https://iili.io/dHVNqcQ.png"
+                                                    alt="Live Chat Yosi88">
+                                                </amp-img>
+                                                <div>LIVE CHAT</div>
+                                            </a>
+                                            <ul class="list-inline vertical-hover togglemenu-content"
+                                                id="livechathover_menu">
+                                                <li><a href="#"><i class="icon-chat1"></i></a></li>
+                                                <li><a href="#"><i class="icon-whatsapp"></i></a></li>
+                                                <li><a href="#"><i class="icon-telegram"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </nav>
+                        </div>
+                        <div class="footer-body text-align: left;">
+                            
+                            
+                        </div><button class="btn btn-link" id="btn-wrap--goToTop"><i
+                                class="i-collapse icon-chevron-thin-up"></i></button>
+                    </div>
+                </div>
+            </div>
+            <div id="r-side-bar" class="no" [class]="yes ? 'no open' : 'no'">
+                <div class="side-bar-content container">
+                    <div class="modal-header text-center"><button on="tap:AMP.setState({yes: !yes})"
+                            class="btn btn-link pull-left" id="btn-close--login-modal">X</button>
+                        <div style="width:100%">
+                            <h4 class="text-center modal-title">Login</h4>
+                        </div>
+                    </div>
+                    <div class="modal-body"></div>
+                    <div class="modal-footer text-center" id="footer--login-modal">
+                        <div class="footer-content">Login<a href="https://yosi88bd.pro/cair">Login</a></div>
+                        <div class="footer-content">Tidak terdaftar? <a href="https://yosi88bd.pro/cair">Daftar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
